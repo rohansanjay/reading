@@ -1,4 +1,4 @@
-# Reading List
+# Reading Notes
 
 Compiled notes on readings I like
 
