@@ -1,3 +1,7 @@
 # Reading List
 
-Compiles notes on readings I like
+Compiled notes on readings I liked
+
+In progress:
+- Option Volatility & Pricing
+- Tuesdays with Morrie
