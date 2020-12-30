@@ -32,6 +32,8 @@
 - "Self-control is a short-term strategy, not a long-term one."
 - "We don't choose our earliest habits, we imitate them."
 - "A craving is just a specific manifestation of a deeper, underlying motive."
+- "Habits are the entry point, not the end point."
+- "When you automate as much of your life as possible, you can spend your effort on the tasks machines cannot do yet."
 
 ### Chapter 1: The Surprising Power of Atomic Haibts
 - improving by 1% isn't notable (or noticable), but it is meaningful in the long run
@@ -170,8 +172,26 @@
 - *design a world where it is easy to do the right thing*
 
 ### Chapter 13: How to Stop Procrastinating by Using the Two-Minute Rules
+- habits might just take a second, but they influence actions that can take minutes or hours -> ramp to the highway
+  - every day, there are a few moments that have a huge impact: **decisive moments**
+    - ex: cooking or ordering, driving or walking, homework or TV...
+    - it's like a decision matrix where whether you make a good or bad choose determines your path throughout the day
+- two minute rule: when you start a new habit, it should take less than two minutes
+  - ex: read one page, take out yoga mat, open notes, fold one pair of socks, tie running shoes...
+  - a new habit shouldn't **feel** like a challlenge
+  - two minutes becomes a ritual of a larger routine
+- one push-up is better than not exercising, one minute of reading is better than none -> it's better to do less than nothing
+  - standardize before you optimize -> you can't improve a new habit that doesn't exist
+- *master the habit of showing up*
 
 ### Chapter 14: How to Make Good Habits Inevitable and Habits Impossible
+- success is sometimes more about making bad habits hard than making good habits easy
+   - use a commitment device: a choice you make in the present that controls your actions in the future
+    - ex: ask your waiter to split your meal before giving it to you instead of "I'll just eat half"
+    - increase the odds that you'll do the right thing in the future by making bad habits difficult in the present
+- onetime choices are single actions that automate your future habits and deliver increasing returns over time
+  - ex: buying a new mattress or enrolling in an automatic savings plan
+- *take advantage of avenues that help you make bad habits difficult"
 
 ### Chapter 15: The Cardinal Rule of Behavior Change
 
