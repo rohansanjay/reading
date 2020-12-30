@@ -1,6 +1,19 @@
 # Atomic Habits
 
+### Memorable Quotes:
+- "You do not rise to the level of your goals. You fall to the level of your systems."
+
 ### Chapter 1: The Surprising Power of Atomic Haibts
+- improving by 1% isn't notable (or noticable), but it is meaningful in the long run
+  - 1% better each day = 37% better after one year but 1% worse every day = almost 0 after a year
+  - habits can compound for or against you -> double edged sword
+- forget about goals and focus on systems
+  - goals = results -> good for setting direction
+    - winners and losers have the same goals
+    - achieving a goal is only a momentary change
+  - systems = processes that lead to results -> good for **making progress**
+    - spend more time designing systems of continuous small improvements
+- atomic = a tiny change and (like atoms as building blocks) and habits are like the atoms of our life
 
 ### Chapter 2: How Your Habits Shape Your Identity
 
