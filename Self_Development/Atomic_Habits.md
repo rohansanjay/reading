@@ -6,6 +6,8 @@
 - "Every goal is doomed to fail if it goes against the grain of human nature."
 - "Environment is the invisible hand that shapes human behavior."
 - "Self-control is a short-term strategy, not a long-term one."
+- "We don't choose our earliest habits, we imitate them."
+- "A craving is just a specific manifestation of a deeper, underlying motive."
 
 ### Chapter 1: The Surprising Power of Atomic Haibts
 - improving by 1% isn't notable (or noticable), but it is meaningful in the long run
@@ -103,8 +105,28 @@
 - *make your habits attractive*
 
 ### Chapter 9: The Role of Family and Friends in Shaping Your Habits
+- humans are herd animals -> we want to fit in
+  - social norms are the invisible rules that guide human behavior
+  - we imitate three groups
+    1. the close
+      - proximity has a powerful effect on behavior
+      - physical & social environment
+    2. the many
+      - we look to the group to guide our behavior
+      - the tribe overpowers the individual
+    3. the powerful
+      - we want power, prestige, and status
+      - greater power = more resources...
+- *surround yourself with the people you want to become*
 
 ### Chapter 10: How to Find and Fix the Cauess of Your Bad Habits
+- every behavior has a surface level craving and a deeper, underlying motive
+  - I want to eat tacos (craving) -> I need food to survive -> I have to eat to survive (motive)
+  - habits are modern day solutions to ancient desires
+  - life feels reactive but it is actually predictive
+- reframing your habits to highlight their benefits rather than their drawbacks is a fast way to reprogram your mind to think habits are more attractive
+  - give yourself motivation by doing something you enjoy right before a difficult habit
+- *link habits with your feelings*
 
 ### Chapter 11: Walk Slowly, but Never Backward
 
