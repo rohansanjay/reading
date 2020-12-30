@@ -1,7 +1,7 @@
 # Atomic Habits
 
 ### Table of Contents
-1. [Chapter 1: The Surprising Power of Atomic Haibts](#Chapter-1:-The-Surprising-Power-of-Atomic-Haibts)       
+1. [Chapter 1: The Surprising Power of Atomic Haibts](###Chapter-1:-The-Surprising-Power-of-Atomic-Haibts)       
 2. [Chapter 2: How Your Habits Shape Your Identity](###Chatper-2)
 
 ### Quotes I like:
