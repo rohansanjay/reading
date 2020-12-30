@@ -1,9 +1,10 @@
 # Atomic Habits
 
-### Memorable Quotes:
+### Quotes I like:
 - "You do not rise to the level of your goals. You fall to the level of your systems."
 - "Your identity emerges out of your habits. You are not born with preset beliefs."
 - "Every goal is doomed to fail if it goes against the grain of human nature."
+- "Environment is the invisible hand that shapes human behavior."
 
 ### Chapter 1: The Surprising Power of Atomic Haibts
 - improving by 1% isn't notable (or noticable), but it is meaningful in the long run
@@ -16,6 +17,7 @@
   - systems = processes that lead to results -> good for **making progress**
     - spend more time designing systems of continuous small improvements
 - atomic = a tiny change and (like atoms as building blocks) and habits are like the atoms of our life
+- *try to get 1% better each day*
 
 ### Chapter 2: How Your Habits Shape Your Identity
 - there are three layers of behavior change
@@ -30,6 +32,7 @@
   - ex: I want to quit smoking vs I am not a smoker
   - the more you repeat a behavior, the more you reinforce the identity associated with that behavior
 - the real reason habits matter is not because they can get you better results but because they can change your beliefs about yourself
+- *habits are beliefs*
 
 ### Chapter 3: How to Build Better Habits in 4 Simple Steps
 - a habit is a behavior repeated enough times to become automatic
@@ -43,12 +46,35 @@
     2. How can I make it attractive/unattractive?
     3. How can I make it easy/difficult?
     4. How can I make it satisfying/unsatisfying?
+- *habits are a cycle—use the cycle to your advantage*
 
 ### Chapter 4: The Man Who Didn't Look Right
+- you don't need to be aware of a cue for a habit to begin
+  - your actions become automatic as habits form
+  - the first step to changing bad habits is to be on the lookout for them
+- *make sure you are aware of your habits*
 
 ### Chapter 5: The Best Way to Start a New Habit
+- implementation intention: a plan you make beforehand about **when** and **where** to act
+  - how you plan to implement a habit
+  - format: when situation X rises, I will perform response Y
+  - people who make a specific plan for when & where they will perform a new habit are more likely to follow through
+    - I will [BEHAVIOR] at [TIME] in [LOCATION]
+- the Diderot Effect: obtaining a new possession often creates a spiral of consumption that leads to additional purchases
+  - ex: you buy a dress and then matching shoes, earrings... a chain reaction of purchases
+  - habit stacking: identify a habit you already do every day and then stack your new behavior on top
+  - after I \[CURRENT HABIT], I will \[NEW HABIT]
+    - ex: after I pour my cup of coffee, I will meditate
+    - you can create larger stacks by chaining smaller habits
+- *have a plan*
 
 ### Chapter 6: Motivation is Overrated; Environment Often Matters More
+- you don't have to be a victim of your environment, you can be an architect of it
+  - make the cue a big part of your environment
+  - make the **best** choice the most **obvious** one -> easy when cues for good habits are in front of you
+- a stable environment where everything has a place and purpose is an environment where habits can easily form
+  - it is easier to build new habits in a new environment because you are not fighting old cues
+- *if you see it, you'll do it -> make yourself see it*
 
 ### Chapter 7: The Secret to Self-Control
 
