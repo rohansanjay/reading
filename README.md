@@ -1,6 +1,6 @@
 # Reading Notes
 
-Compiled notes on readings I like!
+My notes on readings I like!
 
 In progress:
 - Option Volatility & Pricing
