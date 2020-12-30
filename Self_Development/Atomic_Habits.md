@@ -1,8 +1,8 @@
 # Atomic Habits
 
 ### Table of Contents
-1. [Chapter 1: The Surprising Power of Atomic Haibts](###Chapter-1:-The-Surprising-Power-of-Atomic-Haibts)       
-2. [Chapter 2: How Your Habits Shape Your Identity](###Chatper-2)
+[Chapter 1: The Surprising Power of Atomic Haibts](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-1-the-surprising-power-of-atomic-haibts)       
+[Chapter 2: How Your Habits Shape Your Identity](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-2-how-your-habits-shape-your-identity)
 
 ### Quotes I like:
 - "You do not rise to the level of your goals. You fall to the level of your systems."
