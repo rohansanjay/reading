@@ -153,8 +153,21 @@
 - *link habits with your feelings*
 
 ### Chapter 11: Walk Slowly, but Never Backward
+- you don't need to map out everything of a new habit, you just need to practice it
+  - make your habit more systematic through repetition -> long-term potentiation
+- automaticity: perform a behavior without thinking about each step
+  - the learning curve is based on **frequency**, not time -> it's the number of **repetitions**
+- the most effective form of learning is practice, not planning
+- *to build a habit, you need to practice it—get your reps in*
 
 ### Chapter 12: The Law of Least Effort
+- energy is precious and the brain wants to conserve it -> it's human nature to follow the law of least effort
+  - you naturally choose the option with the least amount of work (most value for least effort)
+  - so make it as easy as possible to do things that payoff in the long run
+    - environment design
+    - reduce friction
+    - addition by subtraction: when you remove points of friction, you achieve more with less effort
+- *design a world where it is easy to do the right thing*
 
 ### Chapter 13: How to Stop Procrastinating by Using the Two-Minute Rules
 
