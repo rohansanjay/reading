@@ -222,6 +222,15 @@
 - *never miss twice*
 
 ### Chapter 17: How an Accountability Partner Can Change Everything
+- the more immediate the pain, the less likely the behavior -> increase the speed of the punishment
+  - add an instant cost to bad things so there is no gap between action and consequences
+- use a habit contract to keep yourself accountable
+  - an agreement of your committment that is signed in a contract with others
+  - ex: "I owe Timmy $50 if I miss a workout"
+  - or do your habits with someone else
+    - ex: "song a day" challenge with a friend
+  - this works because we care about the opinions of those around us
+- *having someone watch over you is powerful*
 
 ### Chapter 18: The Truth About Talent
 
