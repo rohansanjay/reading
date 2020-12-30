@@ -34,6 +34,7 @@
 - "A craving is just a specific manifestation of a deeper, underlying motive."
 - "Habits are the entry point, not the end point."
 - "When you automate as much of your life as possible, you can spend your effort on the tasks machines cannot do yet."
+- "Word with the grain of human nature, not against it."
 
 ### Chapter 1: The Surprising Power of Atomic Haibts
 - improving by 1% isn't notable (or noticable), but it is meaningful in the long run
@@ -194,8 +195,31 @@
 - *take advantage of avenues that help you make bad habits difficult"
 
 ### Chapter 15: The Cardinal Rule of Behavior Change
+- we are more likely to repeat a behavior when the experience was satisfying
+  - **but** the satisfaction needs to be immediate
+  - you can't rely on good intentions because you will always prioritize the present moment
+    - we all want a better future but when the moment of decision arrives, instant gratification wins
+  - so add immediate pleasure to habits that pay off in the long run
+    - ex: open a savings account for a jacket every time you say no to eating out
+    - you make it satisfying to do nothing
+    - but make sure the short term reward doesn't go against your habit
+- a habit needs to be enjoyable for it to last and change is easy when enjoyable
+-*what is immediately rewarded is repeated, what is immediately punished is avoided*
 
 ### Chapter 16: How to Stick with Good Habits Every Day
+- create visual measure of your progress
+  - ex: moving a paperclip, crossing something off every day,e tc.
+- use a habit tracker
+  - you won't want to break the chain
+- no matter how consistent you are, you are bound to slip up -> but **never** miss twice
+  - as soon as one streak ends, start another
+  - the fist mistake never ruins you but the spiral that follows does
+  - missing twice is the start of a new habit
+  - this separates winners and losers
+- the bad workouts are more important than good ones because you at least maintain your gains
+  - do something, not nothing
+  - repeating something reaffirms your identity
+- *never miss twice*
 
 ### Chapter 17: How an Accountability Partner Can Change Everything
 
