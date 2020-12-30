@@ -5,6 +5,7 @@
 - "Your identity emerges out of your habits. You are not born with preset beliefs."
 - "Every goal is doomed to fail if it goes against the grain of human nature."
 - "Environment is the invisible hand that shapes human behavior."
+- "Self-control is a short-term strategy, not a long-term one."
 
 ### Chapter 1: The Surprising Power of Atomic Haibts
 - improving by 1% isn't notable (or noticable), but it is meaningful in the long run
@@ -77,8 +78,29 @@
 - *if you see it, you'll do it -> make yourself see it*
 
 ### Chapter 7: The Secret to Self-Control
+- people with self-control are better at structuring their lives in a way that does not require heroic willpower and self-control
+  - they are usually the ones that use it least -> it's easier to practice restraint when you don't have to use it often
+  - create a more disciplined environment
+- once a habit becomes encoded, the urge to act follows whenever a cue reappears -> behavior change techniques can backfire
+  - ex: shaming people to lose weight can make them feel stress so they overeat to cope
+  - habits are autocatalytic: the process feeds itself
+    - ex: you feel bad so you eat junk food and when you eat junk food, you feel bad -> it's a downward spiral...
+- you can break a habit, but you are unlikely to forget it
+  - so cut bad habits off at the source
+    - reduce exposure to the cues that cause them
+    - ex: move the TV out of your bedroom, stop following social media accounts that make you feel jealous, etc. 
+    - instead of making it obvious, make it invisible
+- *it's easier to avoid temptation than resist it"
 
 ### Chapter 8: How to Make a Habit Irresistible
+- habit stacking + temptation building
+  - formula: 
+    1. after I \[CURRENT HABIT], I will \[HABIT I NEED]
+    2. after I \[HABIT I NEED], I will \[HABIT I WANT]
+- temptation building is a way to create a heightened version of any habit by connecting it with something you already want
+- habits are dopamine driven: when dopamine rises, we are more likely to act
+  - the anticipation of a reward, not the fulfillment of it, gets us to act
+- *make your habits attractive*
 
 ### Chapter 9: The Role of Family and Friends in Shaping Your Habits
 
