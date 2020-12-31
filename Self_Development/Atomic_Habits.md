@@ -23,7 +23,8 @@
 [Chapter 19: The Goldilocks Rule: How to Stay Motivated in Life and Work](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-19-the-goldilocks-rule-how-to-stay-motvated-in-life-and-work)     
 [Chapter 20: The Downside of Creating Good Habits](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-20-the-downside-of-creating-good-habits)     
 [Conclusion: The Secret to Results that Last](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#conclusion-the-secret-to-results-that-last)     
-[Little Lessons from the Four Laws](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#little-lessons-from-the-four-laws)   
+[Little Lessons from the Four Laws](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#little-lessons-from-the-four-laws)     
+[Resources](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#resources)
 
 ### Quotes I like:
 - "You do not rise to the level of your goals. You fall to the level of your systems."
@@ -353,3 +354,9 @@
   - you won't do it again if you don't like it
 - hope declines with experience and is replaced by acceptance
   - something new has unbounded hope because we don't have any expectations -> in the beginning, hope is all you have
+
+### Resources
+- [Habits Cheat Sheet](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf)
+- [Habits Scorecard](https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf)
+- [Bonus Chapter - The Biology of Bad Behavior](https://jamesclear.s3.amazonaws.com/Atomic+Habits/Bonus+Chapter.pdf)
+- [All](https://jamesclear.com/atomic-habits/resources)
