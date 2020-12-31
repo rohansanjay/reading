@@ -2,7 +2,7 @@
 
 ### Table of Contents
 [Quotes I like](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#quotes-i-like)     
-[Chapter 1: The Surprising Power of Atomic Haibts](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-1-the-surprising-power-of-atomic-haibts)     
+[Chapter 1: The Surprising Power of Atomic Habits](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-1-the-surprising-power-of-atomic-haibts)     
 [Chapter 2: How Your Habits Shape Your Identity](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-2-how-your-habits-shape-your-identity)     
 [Chapter 3: How to Build Better Habits in 4 Simple Steps](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-3-how-to-build-better-habits-in-4-simple-steps)     
 [Chapter 4: The Man Who Didn't Look Right](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-4-the-man-who-didnt-look-right)     
@@ -11,7 +11,7 @@
 [Chapter 7: The Secret to Self-Control](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-7-the-secret-to-self-control)     
 [Chapter 8: How to Make a Habit Irresistible](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-8-how-to-make-a-habit-irresistible)     
 [Chapter 9: The Role of Family and Friends in Shaping Your Habits](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-9-the-role-of-family-and-friends-in-shaping-your-habits)     
-[Chapter 10: How to Find and Fix the Cauess of Your Bad Habits](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-10-how-to-find-and-fix-the-cauess-of-your-bad-habits)     
+[Chapter 10: How to Find and Fix the Causes of Your Bad Habits](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-10-how-to-find-and-fix-the-cauess-of-your-bad-habits)     
 [Chapter 11: Walk Slowly, but Never Backward](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-11-walk-slowly-but-never-backward)     
 [Chapter 12: The Law of Least Effort](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-12-the-law-of-least-effort)     
 [Chapter 13: How to Stop Procrastinating by Using the Two-Minute Rules](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-13-how-to-stop-procrastinating-by-using-the-two-minute-rules)     
@@ -20,7 +20,7 @@
 [Chapter 16: How to Stick with Good Habits Every Day](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-16-how-to-stick-with-good-habits-every-day)     
 [Chapter 17: How an Accountability Partner Can Change Everything](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-17-how-an-accountability-partner-can-change-everything)     
 [Chapter 18: The Truth About Talent](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-18-the-truth-about-talent)     
-[Chapter 19: The Goldilocks Rule: How to Stay Motvated in Life and Work](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-19-the-goldilocks-rule-how-to-stay-motvated-in-life-and-work)     
+[Chapter 19: The Goldilocks Rule: How to Stay Motivated in Life and Work](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-19-the-goldilocks-rule-how-to-stay-motvated-in-life-and-work)     
 [Chapter 20: The Downside of Creating Good Habits](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-20-the-downside-of-creating-good-habits)     
 [Conclusion: The Secret to Results that Last](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#conclusion-the-secret-to-results-that-last)     
 [Little Lessons from the Four Laws](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#little-lessons-from-the-four-laws)   
@@ -33,22 +33,22 @@
 - "Self-control is a short-term strategy, not a long-term one."
 - "We don't choose our earliest habits, we imitate them."
 - "A craving is just a specific manifestation of a deeper, underlying motive."
-- "Habits are the entry point, not the end point."
+- "Habits are the entry point, not the endpoint."
 - "When you automate as much of your life as possible, you can spend your effort on the tasks machines cannot do yet."
 - "Word with the grain of human nature, not against it."
 - "The secret to maximizing your odds of success is to choose the right field of competition."
-- "Genes do not determine your destiny. They determine your areas of oppurtunity."
+- "Genes do not determine your destiny. They determine your areas of opportunity."
 - "The only way to become excellent is to be endlessly fascinated by doing the same thing over and over."
 - "Improvement is not just about learning habits, it's also about fine-tuning them."
 - "The more you let a single belief define you, the less capable you are of adapting when life challenges you."
 - "Everything is impermanent."
 - "A lack of self-awareness is poison. Reflection and review is the antidote."
-- "Success is not a gaol to reach or a finish line to cross. It is a system to improve, an endless process to refine."
+- "Success is not a goal to reach or a finish line to cross. It is a system to improve, an endless process to refine."
 - "It's remarkable what you can build if you just don't stop."
 - "Tiny changes. Remarkable results."
 
-### Chapter 1: The Surprising Power of Atomic Haibts
-- improving by 1% isn't notable (or noticable), but it is meaningful in the long run
+### Chapter 1: The Surprising Power of Atomic Habits
+- improving by 1% isn't notable (or noticeable), but it is meaningful in the long run
   - 1% better each day = 37% better after one year but 1% worse every day = almost 0 after a year
   - habits can compound for or against you -> double edged sword
 - forget about goals and focus on systems
@@ -67,10 +67,10 @@
   2. changing your process -> **what you do**
     - new routine at the gym, becoming more organized, etc.
   3. changing your identity (deepest) -> **what you believe**
-    - changing your beliefs, worldview, self-image, judgements
+    - changing your beliefs, worldview, self-image, judgments
 - build identity based habits by focusing on *who* you wish to become 
   - NOT what you want to achieve
-  - ex: I want to quit smoking vs I am not a smoker
+  - ex: I want to quit smoking vs. I am not a smoker
   - the more you repeat a behavior, the more you reinforce the identity associated with that behavior
 - the real reason habits matter is not because they can get you better results but because they can change your beliefs about yourself
 - *habits are beliefs*
@@ -157,7 +157,7 @@
       - greater power = more resources...
 - *surround yourself with the people you want to become*
 
-### Chapter 10: How to Find and Fix the Cauess of Your Bad Habits
+### Chapter 10: How to Find and Fix the Causes of Your Bad Habits
 - every behavior has a surface level craving and a deeper, underlying motive
   - I want to eat tacos (craving) -> I need food to survive -> I have to eat to survive (motive)
   - habits are modern day solutions to ancient desires
@@ -177,7 +177,7 @@
 ### Chapter 12: The Law of Least Effort
 - energy is precious and the brain wants to conserve it -> it's human nature to follow the law of least effort
   - you naturally choose the option with the least amount of work (most value for least effort)
-  - so make it as easy as possible to do things that payoff in the long run
+  - so make it as easy as possible to do things that pay off in the long run
     - environment design
     - reduce friction
     - addition by subtraction: when you remove points of friction, you achieve more with less effort
@@ -190,7 +190,7 @@
     - it's like a decision matrix where whether you make a good or bad choose determines your path throughout the day
 - two minute rule: when you start a new habit, it should take less than two minutes
   - ex: read one page, take out yoga mat, open notes, fold one pair of socks, tie running shoes...
-  - a new habit shouldn't **feel** like a challlenge
+  - a new habit shouldn't **feel** like a challenge
   - two minutes becomes a ritual of a larger routine
 - one push-up is better than not exercising, one minute of reading is better than none -> it's better to do less than nothing
   - standardize before you optimize -> you can't improve a new habit that doesn't exist
@@ -219,12 +219,12 @@
 
 ### Chapter 16: How to Stick with Good Habits Every Day
 - create visual measure of your progress
-  - ex: moving a paperclip, crossing something off every day,e tc.
+  - ex: moving a paperclip, crossing something off every day, etc.
 - use a habit tracker
   - you won't want to break the chain
 - no matter how consistent you are, you are bound to slip up -> but **never** miss twice
   - as soon as one streak ends, start another
-  - the fist mistake never ruins you but the spiral that follows does
+  - the first mistake never ruins you but the spiral that follows does
   - missing twice is the start of a new habit
   - this separates winners and losers
 - the bad workouts are more important than good ones because you at least maintain your gains
@@ -236,7 +236,7 @@
 - the more immediate the pain, the less likely the behavior -> increase the speed of the punishment
   - add an instant cost to bad things so there is no gap between action and consequences
 - use a habit contract to keep yourself accountable
-  - an agreement of your committment that is signed in a contract with others
+  - an agreement of your commitment that is signed in a contract with others
   - ex: "I owe Timmy $50 if I miss a workout"
   - or do your habits with someone else
     - ex: "song a day" challenge with a friend
@@ -255,7 +255,7 @@
   - how to decide what is most satisfying to you:
     1. What feels like fun to me, but work to others?
     2. What makes me lose track of time?
-    3. Where do I get greater returns that the average person?
+    3. Where do I get greater returns than the average person?
     4. What comes naturally to me?
 - genes don't eliminate the need for hard work -> they tell us what to work hard on
   - spend your time and energy on your strengths
@@ -264,7 +264,7 @@
     - don't explain away their success as luck
 - *work hard on things that come easy*
 
-### Chapter 19: The Goldilocks Rule: How to Stay Motvated in Life and Work
+### Chapter 19: The Goldilocks Rule: How to Stay Motivated in Life and Work
 - the Goldilocks Rule: humans experience peak motivation when working on tasks that are right on the edge of their current abilities
   - not too hard, not too easy -> just right
   - when starting a habit, make it as easy as possible so you stick with it
@@ -318,7 +318,7 @@
 
 ### Little Lessons from the Four Laws
 - awareness comes before desire
-  - a craving only occurs after you notice an oppurtunity
+  - a craving only occurs after you notice an opportunity
 - happiness is simply the absence of desire
   - it occurs when you don't have an urge to feel differently
 - it is the idea of pleasure that we chase
@@ -337,7 +337,7 @@
   - people want what satisfies their desires
 - suffering drives progress
   - wanting to change your state prompts action
-- your actions reveal how badly you want somthing
+- your actions reveal how badly you want something
   - if you say you want something, but don't act on it, you don't really want it
 - reward is on the other side of sacrifice
   - reward after energy is spent
@@ -353,5 +353,3 @@
   - you won't do it again if you don't like it
 - hope declines with experience and is replaced by acceptance
   - something new has unbounded hope because we don't have any expectations -> in the beginning, hope is all you have
-
-  
