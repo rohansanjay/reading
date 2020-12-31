@@ -130,7 +130,7 @@
     - reduce exposure to the cues that cause them
     - ex: move the TV out of your bedroom, stop following social media accounts that make you feel jealous, etc. 
     - instead of making it obvious, make it invisible
-- *it's easier to avoid temptation than resist it"
+- *it's easier to avoid temptation than resist it*
 
 ### Chapter 8: How to Make a Habit Irresistible
 - habit stacking + temptation building
@@ -203,7 +203,7 @@
     - increase the odds that you'll do the right thing in the future by making bad habits difficult in the present
 - onetime choices are single actions that automate your future habits and deliver increasing returns over time
   - ex: buying a new mattress or enrolling in an automatic savings plan
-- *take advantage of avenues that help you make bad habits difficult"
+- *take advantage of avenues that help you make bad habits difficult*
 
 ### Chapter 15: The Cardinal Rule of Behavior Change
 - we are more likely to repeat a behavior when the experience was satisfying
@@ -215,7 +215,7 @@
     - you make it satisfying to do nothing
     - but make sure the short term reward doesn't go against your habit
 - a habit needs to be enjoyable for it to last and change is easy when enjoyable
--*what is immediately rewarded is repeated, what is immediately punished is avoided*
+- *what is immediately rewarded is repeated, what is immediately punished is avoided*
 
 ### Chapter 16: How to Stick with Good Habits Every Day
 - create visual measure of your progress
