@@ -23,6 +23,7 @@
 [Chapter 19: The Goldilocks Rule: How to Stay Motvated in Life and Work](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-19-the-goldilocks-rule-how-to-stay-motvated-in-life-and-work)     
 [Chapter 20: The Downside of Creating Good Habits](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-20-the-downside-of-creating-good-habits)     
 [Conclusion: The Secret to Results that Last](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#conclusion-the-secret-to-results-that-last)     
+[Little Lessons from the Four Laws]()   
 
 ### Quotes I like:
 - "You do not rise to the level of your goals. You fall to the level of your systems."
@@ -35,6 +36,16 @@
 - "Habits are the entry point, not the end point."
 - "When you automate as much of your life as possible, you can spend your effort on the tasks machines cannot do yet."
 - "Word with the grain of human nature, not against it."
+- "The secret to maximizing your odds of success is to choose the right field of competition."
+- "Genes do not determine your destiny. They determine your areas of oppurtunity."
+- "The only way to become excellent is to be endlessly fascinated by doing the same thing over and over."
+- "Improvement is not just about learning habits, it's also about fine-tuning them."
+- "The more you let a single belief define you, the less capable you are of adapting when life challenges you."
+- "Everything is impermanent."
+- "A lack of self-awareness is poison. Reflection and review is the antidote."
+- "Success is not a gaol to reach or a finish line to cross. It is a system to improve, an endless process to refine."
+- "It's remarkable what you can build if you just don't stop."
+- "Tiny changes. Remarkable results."
 
 ### Chapter 1: The Surprising Power of Atomic Haibts
 - improving by 1% isn't notable (or noticable), but it is meaningful in the long run
@@ -232,10 +243,115 @@
   - this works because we care about the opinions of those around us
 - *having someone watch over you is powerful*
 
-### Chapter 18: The Truth About Talent
+### Chapter 18: The Truth About Talent (When Genes Matter and When They Don't
+- habits are easier to perform when they align with your natural inclinations and abilities
+  - you want to play a game where the odds are in your favor
+  - people are born with different abilities but the strength of genetics is also their weakness
+    - genes are powerful in favorable circumstances but a serious disadvantage in unfavorable circumstances
+    - our environment determines our suitability of genes and the utility of our natural talents
+    - so align your ambition with your ability
+- build habits that work for your personality
+  - choose the habit that best suits you, not the most popular one
+  - how to decide what is most satisfying to you:
+    1. What feels like fun to me, but work to others?
+    2. What makes me lose track of time?
+    3. Where do I get greater returns that the average person?
+    4. What comes naturally to me?
+- genes don't eliminate the need for hard work -> they tell us what to work hard on
+  - spend your time and energy on your strengths
+  - people get caught up in the fact that they have limits but rarely exert the effort required to get close to them
+  - you don't know who has better genes if you haven't put in as much work as someone else
+    - don't explain away their success as luck
+- *work hard on things that come easy*
 
 ### Chapter 19: The Goldilocks Rule: How to Stay Motvated in Life and Work
+- the Goldilocks Rule: humans experience peak motivation when working on tasks that are right on the edge of their current abilities
+  - not too hard, not too easy -> just right
+  - when starting a habit, make it as easy as possible so you stick with it
+- once a habit has been established, you need to keep advancing it in small ways
+  - keep yourself challenged at just manageable difficulty to maintain motivation and keep yourself from getting bored
+- many people think that "it all comes down to passion"
+  - this makes us depressed when we lost focus/motivation because we think that successful people are more passionate
+    - this is **not true** -> everyone feels the same lack of motivation but successful people still find a way to show up when they get bored
+- people prefer novelty and always want something new when they lose motivation
+  - video games, junk food, etc. always keep things new
+- when a habit is important to you, you need to be willing to stick with it no matter what
+  - fall in love with boredom
+- *the successful stick to a schedule, amateurs let life get in the way*
 
 ### Chapter 20: The Downside of Creating Good Habits
+- habits + deliberate practice = mastery
+  - you need a way to prevent complacency when you are working toward mastery -> reflection and review
+- reflection and review makes you aware of your mistakes and consider ways to improve
+  - this leads to long-term improvement
+  - [annual review](https://jamesclear.com/annual-review) -> reflect on your progress
+    1. What went well this year?
+    2. What didn't go well this year?
+    3. What did I learn?
+  - [integrity report](https://jamesclear.com/integrity) -> figure on what went wrong and get back on track
+    1. What are the core values that drive my life and work?
+    2. How am I living and working with integrity right now?
+    3. How can I set a higher standard in the future?
+  - periodic reflection and review is like viewing yourself from a conversational distance
+    - too much feedback isn't good
+- avoid making an single aspect of your identity an overwhelming portion of who you are
+  - "keep your identity small"
+  - when you cling too tightly to an identity, you become brittle -> lose that one thing and you lose yourself
+    - When you spend your whole life by defining yourself by one thing that disappears, who are you now?
+  - make your identity flexible
+    - ex: I'm the CEO -> I'm a builder and a creator
+- habits can lock you into previous ways of thinking and acting when the world is changing around you
+  - so periodically check in to see if old habits and beliefs are still serving you
+- *be self-aware*
 
 ### Conclusion: The Secret to Results that Last
+- the holy grail of habit change is not a single 1% improvement, but 1000 of them
+  - something may seem insignificant when you start, but gradually the scales of life start to move
+  - make sure you have the right system for change
+- behaviors are effortless when: obvious, attractive, easy, satisfying
+- behaviors are difficult when: invisible, unattractive, hard, unsatisfying
+- it's a continuous process -> there is no finish line or permanent solution
+  - keep looking for a way to get 1% better
+  - never stop making improvements
+- the power of atomic habits -> tiny changes and remarkable results
+- *never stop finding a way to get 1% better*
+
+### Little Lessons from the Four Laws
+- awareness comes before desire
+  - a craving only occurs after you notice an oppurtunity
+- happiness is simply the absence of desire
+  - it occurs when you don't have an urge to feel differently
+- it is the idea of pleasure that we chase
+  - we don't know how something will actually make us feel
+- peace occurs when you don't turn your observations into problems
+  - you are just observing and existing but not wanting to change
+- with a big enough why, you can overcome any how
+  - you'll take action even when things are difficult
+- being curious is better than being smart
+  - it leads to action
+- emotions drive behavior
+  - you only feel compelled to act because of emotion
+- we can only be rational and logical after we have been emotional
+  - first we feel (system 1), then we think (system 2)
+- your response tends to follow your emotions
+  - people want what satisfies their desires
+- suffering drives progress
+  - wanting to change your state prompts action
+- your actions reveal how badly you want somthing
+  - if you say you want something, but don't act on it, you don't really want it
+- reward is on the other side of sacrifice
+  - reward after energy is spent
+- self-control is difficult because it is not satisfying
+  - it ignores your cravings
+- our expectations determine our satisfaction
+  - satisfaction = liking - wanting
+- the pain of failure correlates to the height of expectation
+  - when desire is high, it hurts not the like the outcome
+- feelings come before and after the behavior
+  - feel -> act and act -> feel
+- desire initiates, pleasure sustains
+  - you won't do it again if you don't like it
+- hope declines with experience and is replaced by acceptance
+  - something new has unbounded hope because we don't have any expectations -> in the beginning, hope is all you have
+
+  
