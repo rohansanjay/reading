@@ -23,7 +23,7 @@
 [Chapter 19: The Goldilocks Rule: How to Stay Motvated in Life and Work](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-19-the-goldilocks-rule-how-to-stay-motvated-in-life-and-work)     
 [Chapter 20: The Downside of Creating Good Habits](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#chapter-20-the-downside-of-creating-good-habits)     
 [Conclusion: The Secret to Results that Last](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#conclusion-the-secret-to-results-that-last)     
-[Little Lessons from the Four Laws]()   
+[Little Lessons from the Four Laws](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#little-lessons-from-the-four-laws)   
 
 ### Quotes I like:
 - "You do not rise to the level of your goals. You fall to the level of your systems."
