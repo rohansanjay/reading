@@ -3,5 +3,5 @@
 My notes on readings I like!
 
 In progress:
-- Options Volatility & Pricing
+- Option Volatility & Pricing
 - Tuesdays with Morrie
