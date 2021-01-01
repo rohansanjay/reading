@@ -1,4 +1,4 @@
-# Atomic Habits
+# Atomic Habits by James Clear
 
 ### Table of Contents
 [Quotes I like](https://github.com/rohansanjay/reading/blob/main/Self_Development/Atomic_Habits.md#quotes-i-like)     
