@@ -4,7 +4,7 @@
 
 [Quotes I like]()
 
-[Chapter 1: Financial Contracts (24:09 mins)]()
+[Chapter 1: Financial Contracts (24:09 mins)](#https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#chapter-1-financial-contracts-2409-mins)
 
 - Buying and Selling
 
@@ -319,6 +319,59 @@
 - "The secret, if there is one, is in learning as much as possible, applying in the real world what has been learned, and analyzing both one’s successes and one’s failures."
 
 ### Chapter 1: Financial Contracts (24:09 mins)
+
+- Cash transaction: buyer and seller agree on the price and transact
+- Forward contract: the parties agree on terms now but exchange does not take place until a later date (maturity or expiration date)
+  - Ex: a bakery will enter a forward contract to eliminate the risk or rising grain
+  - Also known as a futures contract
+- Option contract: gives one party the right to make a decision at a later date
+  - Call option: gives one party the right to decide at a later date whether to **buy**
+  - Put option: gives one party the right to decide to sell at a later date
+  - Premium: the payment that the seller keeps regardless of the buyer's decision
+- Forwards, futures, and options are all referred to as derivatives 
+
+##### Buying and Selling
+
+- With derivatives, you can buy then sell, or sell then buy
+  - Profit depends on which price is lower
+- First trade is the opening trade -> open position
+  - The subsequent trade is the closing trade
+  - Open interest = the number of contracts that have not been closed out
+  - If the trader first buys the contract (opening trade) = long 
+    - Results in debit (pay money when you buy)
+  - If the trader first sells the contract (opening trade) = short 
+    - Results in credit (expect to get money when you sell)
+
+##### Notational Value of a Forward Contract
+
+- No money changes hands when a forward contract is initially traded
+- Notation value = number of units to be deliver at maturity price * unit price
+  - Ex: delivery of 1000 units at $75/unit = $75,000
+
+##### Settlement Procedures
+
+- The transfer of money and ownership when the contract is traded depends on the exchange
+- Margin deposit: security against possible default by the buyer or seller
+  - Exchange tries to make this high enough to protect but low enough to trade
+- Variation: credit or debit that results from fluctuations in the price of a futures contract
+- Two ways for a trader to close out a position
+  - Make an offsetting trade, selling out the contract initially bought or buying back the contract initially sold
+  - Carry the position to maturity -> physical settlement (seller makes delivery and buyer pays)
+- What about options? They are settled like stock
+  - They must be paid for immediately and in full
+  - All profits or losses are unrealized until the position is liquidated
+  - This causes problems when trying to hedge futures with options because traders must pay variation with futures but options, like stock, are unrealized
+    - Losses from futures require immediate cash outlay to cover variation requirements
+
+##### Market Integrity
+
+- The exchange is responsible for instilling buyer and seller confidence
+  - The exchange becomes the buyer or the seller and the seller of the buyer
+    - If either defaults, the exchange guarantees payment
+  - So exchanges establish clearinghouse: a separate division of the exchange responsible for processing and guaranteeing all trades on the exchange
+    - The 2 largest derivatives clearinghouses are the Options Clearing Corporation and the CME Clearing House
+- The margin for a professional trader on an equity options exchange is sometimes called a haircut
+
 ### Chapter 2: Forward Pricing (24:09 mins)
 ### Chapter 3: Contract Specifications and Option Terminology (23:00 mins)
 ### Chapter 4: Expiration Profit and Loss (23:00 mins)
