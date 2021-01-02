@@ -4,7 +4,7 @@
 
 [Quotes I like]()
 
-[Chapter 1: Financial Contracts (24:09 mins)](#https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#chapter-1-financial-contracts-2409-mins)
+[Chapter 1: Financial Contracts (24:09 mins)](https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#chapter-1-financial-contracts-2409-mins)
 
 - Buying and Selling
 
