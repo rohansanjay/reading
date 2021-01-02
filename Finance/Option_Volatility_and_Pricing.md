@@ -2,7 +2,7 @@
 
 ### Table of Contents
 
-[Quotes I like]()
+[Quotes I like](https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#quotes-i-like)
 
 [Chapter 1: Financial Contracts (24:09 mins)](https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#chapter-1-financial-contracts-2409-mins)
 
@@ -14,7 +14,7 @@
 
 - Market Integrity
 
-[Chapter 2: Forward Pricing (24:09 mins)]()
+[Chapter 2: Forward Pricing (24:09 mins)](https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#chapter-2-forward-pricing-2409-mins)
 
 - Physical Commodities (Grains, Energy Products, Precious Metals, etc.)
 
@@ -326,7 +326,7 @@
   - Also known as a futures contract
 - Option contract: gives one party the right to make a decision at a later date
   - Call option: gives one party the right to decide at a later date whether to **buy**
-  - Put option: gives one party the right to decide to sell at a later date
+  - Put option: gives one party the right to decide to **sell** at a later date
   - Premium: the payment that the seller keeps regardless of the buyer's decision
 - Forwards, futures, and options are all referred to as derivatives 
 
@@ -372,7 +372,76 @@
     - The 2 largest derivatives clearinghouses are the Options Clearing Corporation and the CME Clearing House
 - The margin for a professional trader on an equity options exchange is sometimes called a haircut
 
+*options and futures are confusing haha but easier to understand with examples*
+
 ### Chapter 2: Forward Pricing (24:09 mins)
+
+- Forward price = current cash price + costs of buying now - benefits of buying now
+
+- Basis = cash price - forward price
+
+  - Usually negative because the cost of buying now outweighs the benefit
+
+- Common costs and benefits for stocks and forex
+
+- | instrument       | Costs of buying now            | Benefits of buying now         |
+  | ---------------- | ------------------------------ | ------------------------------ |
+  | stock            | Interest on the stock price    | Dividends (if any) + interest  |
+  | Foreign currency | Interest on borrowing domestic | Interest earned on the foreign |
+
+#### Physical Commodities
+
+- If you buy now, you pay the current price + the interest on the amount
+  - C = commodity price, t = time to maturity, r = interest rate, s = annual storage costs/commodity, i = annual interest costs/commodity, F = forward price
+    - F = C * (1 + r * t) + (s * t) + (I * t)
+    - Normal/contago = long-term futures trade at premium to short term
+    - Backward = cash price of commodity is greater than futures price
+      - Ex: cost of storage is high and factory loses money by just staying open
+  - S = stock price, t = time to maturity, r = interest rate, d_i = each dividend payment, t_i = time remaining to maturity, ri = applicable interest rate from each divident payment
+    - F = [S * (1 * r * t)] - sum[dn * (1 + r_n * t_n)]
+
+#### Stock and Future Options
+
+- Stock and future options are the most common exchange traded options
+  - Almost all exchange traded options on physical commodities, bonds, and forex are futures options
+    - Ex: someone trading options on crude oil is really trading options on crude oil futures
+- The value of the option depends on the forward price of the underlying contract
+  - The forward price for a futures contract is the futures price
+  - Ex: if a 3 month futures contract is trading at $75, the 3 month forward price is $75
+  - This makes futures options easier than stock options because you don't need to calculate the forward price
+
+#### Arbitrage
+
+- Buying and selling the same or very closely related instrument in different markets to profit from an apparent mispricing
+  - Ex: in forex, a trader might try to profit by borrowing low interest domestic currency and using it to buy a high interest foreign currency
+    - Hopes to pay a low interest rate and earn a high interest rate
+- Cash and carry arbitrage: buying the the cash market, selling in the futures market, and carrying the position to maturity
+  - Ex: calculated forward price = $69.02 and the price of the forward contract is $69.50
+    - So the trader sells the forward contract at $69.50 and buys the stock
+    - Profit = 69.50 - 69.02 = $0.48 -> cash and carry arbitrage
+
+#### Dividends
+
+- Declared date: date when the company announces the amount and pay date
+- Record date: date on which the stock must be owned to receive the dividend
+
+#### Short Sales
+
+- Selling stock that you don't own hoping to back back the stock later at a lower price
+  - The trader first borrows the stock
+    - Stock short squeeze: it is difficult or impossible to borrow stock
+    - The brokerage firm (seller) pays interest to the trader on the amount of the sale
+      - This is because the trader theoretically has the money from the "sale"
+        - But the seller only pays a portion of the full interest based on how hard it is to borrow the stock
+          - Difficult = no interest
+      - But the trader pays back any dividends
+- You can short when the forward price is lower than the current price
+  - Buy a forward contract and sell the stock
+  - But if you don't already own the stock, you could lose money by losing interest
+- For options, always apply the ordinary long rate to the cash flow
+
+*interest makes things confusing but I also see where quant probably comes in with calculating forward pricing models and trading for any arbitrage...*
+
 ### Chapter 3: Contract Specifications and Option Terminology (23:00 mins)
 ### Chapter 4: Expiration Profit and Loss (23:00 mins)
 ### Chapter 5: Theoretical Pricing Models (37:57 mins)
