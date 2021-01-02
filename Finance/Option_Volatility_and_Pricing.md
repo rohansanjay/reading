@@ -330,7 +330,7 @@
   - Premium: the payment that the seller keeps regardless of the buyer's decision
 - Forwards, futures, and options are all referred to as derivatives 
 
-##### Buying and Selling
+#### Buying and Selling
 
 - With derivatives, you can buy then sell, or sell then buy
   - Profit depends on which price is lower
@@ -342,13 +342,13 @@
   - If the trader first sells the contract (opening trade) = short 
     - Results in credit (expect to get money when you sell)
 
-##### Notational Value of a Forward Contract
+#### Notational Value of a Forward Contract
 
 - No money changes hands when a forward contract is initially traded
 - Notation value = number of units to be deliver at maturity price * unit price
   - Ex: delivery of 1000 units at $75/unit = $75,000
 
-##### Settlement Procedures
+#### Settlement Procedures
 
 - The transfer of money and ownership when the contract is traded depends on the exchange
 - Margin deposit: security against possible default by the buyer or seller
@@ -363,7 +363,7 @@
   - This causes problems when trying to hedge futures with options because traders must pay variation with futures but options, like stock, are unrealized
     - Losses from futures require immediate cash outlay to cover variation requirements
 
-##### Market Integrity
+#### Market Integrity
 
 - The exchange is responsible for instilling buyer and seller confidence
   - The exchange becomes the buyer or the seller and the seller of the buyer
