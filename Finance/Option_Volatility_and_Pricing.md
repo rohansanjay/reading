@@ -32,7 +32,7 @@
 
 - Short Sales
 
-[Chapter 3: Contract Specifications and Option Terminology (23:00 mins)]()
+[Chapter 3: Contract Specifications and Option Terminology (23:00 mins)](https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#chapter-3-contract-specifications-and-option-terminology-2300-mins)
 
 - Contract Specifications
 
@@ -443,6 +443,99 @@
 *interest makes things confusing but I also see where quant probably comes in with calculating forward pricing models and trading for any arbitrage...*
 
 ### Chapter 3: Contract Specifications and Option Terminology (23:00 mins)
+
+- People trade options with different goals
+  - Ex: opinion on price movements, hedging, arbitrage, etc. 
+  - Very important to understand the terminology 
+
+#### Contract Specifications
+
+- type
+  - Call = right to buy or take long position in an asset at a fixed price on or before a specified date
+  - Put = right to sell or take a short position in an asset
+  - Difference between options and futures: futures require delivery at a fixed price because buyers/sellers have guidelines but options give choice
+    - Trader can choose to take delivery (call) or sell delivery (put)
+    - If the buyer chooses to make/take delivery, the seller must take the other side
+    - Right lie with the buyer and obligations with the seller
+- Underlying 
+  - The underlying asset is the security or commodity to be bought or sold under the terms of the option contract
+    - For stock exchanges, the underlying is usually 100 shares
+      - The owner of a call has the right to buy 100 shares
+      - The owner of a put has the right to sell 100 shares
+    - For futures options, the underlying is uniformly one futures contract
+      - The owner of the call has the right to buy one futures contract
+      - The owner of the put has the right to sell one futures contract
+      - Usually the futures month corresponds to the expiration month of the option
+        - Ex: the underlying for an April futures option is an April futures contract
+      - In a *serial option*, there is no corresponding futures month
+        - So the underlying contract is the nearest futures contract beyond expiration of the option
+        - Ex: the underlying for a jan or feb option is a march futures contract because futures are often listed on a quarterly cycle
+      - Midcurve options: short-term options on long-term futures
+- Expiration date (expiry)
+  - Date on which the owner of the option must make the final decision to buy (call) or sell (put)
+    - For many exchanges, this will be the 3rd Friday of the expiration month
+  - AM expiration is used for stock index contracts (opening price rather than the closing price on the last trading day)
+- Exercise price
+  - The price at which the underlying will be delivered should the holder of the option choose to exercise the right to buy or sell
+    - If exercised, the owner of a call will pay the exercise price or the owner of a put will receive the exercise price
+  - Exercise prices are set by the exchange, usually at equal intervals around the current price of the underlying
+- Exercise and Assignment
+  - The buyer of a call or put has the right to exercise that option prior to its expiration date
+    - Can cover the option into a long underlying position (call) or short underlying position (put)
+  - When a valid exercise is submitted, a seller is assigned 
+    - The seller is someone who has sold the option and has not closed out the position through an offsetting trade
+      - This decision is assigned randomly
+    - \## this part is a bit confusing
+  - Summary 
+    - If you exercise a call -> choose to *buy* at the exercise price
+    - If you are assigned a call -> required to *sell* at the exercise price
+    - If you exercise a put -> choose to *sell* at the exercise price
+    - If you are assigned a put -> required to *buy* at the exercise price
+- Settlement into physical underlying
+  - The exerciser of a call pays the exercise price regardless of the actual price
+    - Same in the opposite for a put
+- Settlement in a futures position
+  - It is like the exerciser is buying or selling the futures contract at the exercise price
+    - Requires margin and variation
+- Settlement into cash
+  - Used primarily for index contracts
+    - Cash payment = difference between the exercise price and the underlying price
+- Exercise style
+  - European: can only be exercised at expiration 
+    - Holder must make decision to exercise or not on the last business day
+  - American: can be exercised on any business day prior to expiration
+  - This doesn't have to do will location 
+    - Futures and stock are usually American and indexes are usually European 
+
+#### Option Price Components
+
+- And options price/premium is determined by supply and demand
+  - Buyers and sellers make competitive bids -> when bid and offer coincide, a trade is made
+- Premium has two components: the intrinsic value and time value
+  - And option has intrinsic value if it enables the holder of the option to buy low and sell high or sell high and buy lowe
+    - Intrinsic value = different between buying and selling price
+    - Ex: contract trading at 435, iv of a 400 call is 35
+      - Because the holder can buy at 400
+  - So call will only have iv if exercise price is less than current market price and put will only have iv if exercise price is greater than current market price
+    - Call iv = max of 0 or S - X
+    - Put iv = max of 0 or X - S
+    - Usually the option price is greater than its intrinsic value
+  - Time value (time premium/extrinsic value) = additional amount of premium beyond the iv that traders are willing to pay for an option
+    - Willing to pay this additional amount because of the protective characteristics of an option over an outright long or short position in the underlying
+    - So an options premium is always iv + ev
+      - Ex: 400 call trading at 50 with underlying 435
+        - Ev is 15 and iv is 35
+    - If the option has no time value, it is trading at **parity**
+- In the money = any option that has positive iv by the amount of iv
+  - Traders can capture value by selling the option or exercising and closing the underlying
+  - Most exchanges have automatic exercise for these cases
+- Out the money = no iv -> price is solely time value
+- At the money = option with exercise price same as current price
+  - Technically out the money since it has no iv
+  - But these are desirable so they are usually most actively traded
+
+*puts are more confusing to me -> need to talk through them*
+
 ### Chapter 4: Expiration Profit and Loss (23:00 mins)
 ### Chapter 5: Theoretical Pricing Models (37:57 mins)
 ### Chapter 6: Volatility (60:57 mins)
