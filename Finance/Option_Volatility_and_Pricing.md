@@ -537,6 +537,37 @@
 *puts are more confusing to me -> need to talk through them*
 
 ### Chapter 4: Expiration Profit and Loss (23:00 mins)
+
+- Options traders have a many different contracts to choose from
+  - Which one to buy? You need to know what the option is worth
+  - There is one time when everyone can agree on one answer: expiration
+    - The option is worth exactly its iv -> 0 if its out of the money or difference between exercise and underlying if its in the money
+
+#### Parity Graphs
+
+- iv = credit or positive value for someone who buys an option
+  - Buyer can buy low and sell high
+- iv = debit for seller of an option
+  - Forced to sell low and buy high
+- The option value increases by 1 point for each 1 point increase (call) or decrease (put) in iv when in the long position
+  - Opposite for short (out the money)
+- Parity graph shows the value of an option at expiration (parity = iv)
+  - These show options have **limited risk**
+    - Buyers can never lose more than the price of the option but have unlimited upside
+    - Sellers of options have limited profit -> they can never make more than the price
+      - Also have unlimited risk
+  - So why sell options? Unbalanced risk reward right?
+    - Because of the likelihood of possible occurrences
+    - If the price is high enough and the perceived risk is low enough, then a trader might be willing to take it
+- Slope = change in position value / change in underlying (0, 1, or -1)
+  - You can also stack slopes by stacking the options
+    - Ex: two long call options can have a slope of +2 above the exercise price
+  - You can also combine options with the underlying contract
+  - Even if the combination of options is complex, you can construct the parity graph by:
+    - Determining slopes of the graph below the lower exercise, highest exercise, and between, and then connect all segments
+- PnL
+  - You contract PnL by seeing where the position(s) result in debit/credit and adding/subtracting the option cost depending on call/put and long/short
+
 ### Chapter 5: Theoretical Pricing Models (37:57 mins)
 ### Chapter 6: Volatility (60:57 mins)
 ### Chapter 7: Risk Measurement I (44:51 mins)
