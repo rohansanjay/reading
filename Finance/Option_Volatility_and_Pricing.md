@@ -38,7 +38,7 @@
 
 - Option Price Components
 
-[Chapter 4: Expiration Profit and Loss (23:00 mins)]()
+[Chapter 4: Expiration Profit and Loss (23:00 mins)](https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#chapter-4-expiration-profit-and-loss-2300-mins)
 
 - Parity Graphs
 
