@@ -309,7 +309,7 @@
 - Volatility Contract Applications
 - Afterword: A Final Thought
 
-[Khan Academy Videos Supplement]()
+[Khan Academy Videos Supplement](https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#khan-academy-videos-supplement)
 
 ### Quotes I like
 
