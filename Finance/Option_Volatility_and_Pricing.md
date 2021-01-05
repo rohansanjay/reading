@@ -303,16 +303,13 @@
 [Chapter 25: Volatility Contracts (56:21 mins)]()
 
 - Realized Volatility Contracts
-
 - Implied Volatility Contracts
-
 - Trading the VIX
-
 - Replicating a Volatility Contract
-
 - Volatility Contract Applications
-
 - Afterword: A Final Thought
+
+[Khan Academy Videos Supplement]()
 
 ### Quotes I like
 
@@ -514,22 +511,22 @@
 - Premium has two components: the intrinsic value and time value
   - And option has intrinsic value if it enables the holder of the option to buy low and sell high or sell high and buy lowe
     - Intrinsic value = different between buying and selling price
-    - Ex: contract trading at 435, iv of a 400 call is 35
+    - Ex: contract trading at 435, intrinsic value of a 400 call is 35
       - Because the holder can buy at 400
-  - So call will only have iv if exercise price is less than current market price and put will only have iv if exercise price is greater than current market price
-    - Call iv = max of 0 or S - X
-    - Put iv = max of 0 or X - S
+  - So call will only have intrinsic value if exercise price is less than current market price and put will only have intrinsic value if exercise price is greater than current market price
+    - Call intrinsic value = max of 0 or S - X
+    - Put intrinsic value = max of 0 or X - S
     - Usually the option price is greater than its intrinsic value
-  - Time value (time premium/extrinsic value) = additional amount of premium beyond the iv that traders are willing to pay for an option
+  - Time value (time premium/extrinsic value) = additional amount of premium beyond the intrinsic value that traders are willing to pay for an option
     - Willing to pay this additional amount because of the protective characteristics of an option over an outright long or short position in the underlying
-    - So an options premium is always iv + ev
+    - So an options premium is always intrinsic value + ev
       - Ex: 400 call trading at 50 with underlying 435
-        - Ev is 15 and iv is 35
+        - Ev is 15 and intrinsic value is 35
     - If the option has no time value, it is trading at **parity**
-- In the money = any option that has positive iv by the amount of iv
+- In the money = any option that has positive intrinsic value by the amount of iv
   - Traders can capture value by selling the option or exercising and closing the underlying
   - Most exchanges have automatic exercise for these cases
-- Out the money = no iv -> price is solely time value
+- Out the money = no intrinsic value -> price is solely time value
 - At the money = option with exercise price same as current price
   - Technically out the money since it has no iv
   - But these are desirable so they are usually most actively traded
@@ -541,15 +538,15 @@
 - Options traders have a many different contracts to choose from
   - Which one to buy? You need to know what the option is worth
   - There is one time when everyone can agree on one answer: expiration
-    - The option is worth exactly its iv -> 0 if its out of the money or difference between exercise and underlying if its in the money
+    - The option is worth exactly its intrinsic value -> 0 if its out of the money or difference between exercise and underlying if its in the money
 
 #### Parity Graphs
 
-- iv = credit or positive value for someone who buys an option
+- intrinsic value = credit or positive value for someone who buys an option
   - Buyer can buy low and sell high
-- iv = debit for seller of an option
+- intrinsic value = debit for seller of an option
   - Forced to sell low and buy high
-- The option value increases by 1 point for each 1 point increase (call) or decrease (put) in iv when in the long position
+- The option value increases by 1 point for each 1 point increase (call) or decrease (put) in intrinsic value when in the long position
   - Opposite for short (out the money)
 - Parity graph shows the value of an option at expiration (parity = iv)
   - These show options have **limited risk**
@@ -569,6 +566,17 @@
   - You contract PnL by seeing where the position(s) result in debit/credit and adding/subtracting the option cost depending on call/put and long/short
 
 ### Chapter 5: Theoretical Pricing Models (37:57 mins)
+
+- Traders who think underlying will rise are more inclined to buy calls or sell puts
+- Traders who think underlying will fall are more inclined to buy puts of sell calls
+- But a problem for options traders is the **speed** of the market
+  - The underlying needs to rise/fall within a certain period of time for the trader to profit or the option expires worthless and the trader loses money
+  - And further expirations could be more expensive so that is not always an option
+  - So options traders need to think about how fast the market will move because they need to be right about direction **and** speed
+    - But most people have trouble prediction just market direction...
+- Many option strategies depend only on the speed of the market and not at all on direction
+  - If you can predict direction well, you might as well just trade the underlying then
+
 ### Chapter 6: Volatility (60:57 mins)
 ### Chapter 7: Risk Measurement I (44:51 mins)
 ### Chapter 8: Dynamic Hedging (32:12 mins)
@@ -590,3 +598,34 @@
 ### Chapter 24: Volatility Skews (52:54 mins)
 
 ### Chapter 25: Volatility Contracts (56:21 mins)
+
+### Khan Academy Videos Supplement
+
+Basic Shorting
+
+- First you borrow the stock -> sell at the current price -> buy it back at a lower price (hopefully) -> then give it back to the owner
+  - Profit = sell price - buy price (unlimited downside)
+
+Put Options
+
+- Gives you the right to **sell** company X at $Y
+  - If you don't already own it, you can buy it (at the lower price) and then sell it right away
+
+Call Option as Leverage
+
+- Calls give you **leverage** because you are making the same bet as buying a stock but you are **multiplying** your potential gain/loss relative to your starting upfront capital
+
+Put Option as Leverage
+
+- When you short, you still have to put down some starting capital even though you technically are borrowing stock
+- You multiply your gains relative to shorting
+  - Lots of protection on the downside
+
+Call Payoff Diagram
+
+- Looks like a hockey stick because the value of the option is flat when less than stick price but has a slope of 1 when greater than strike
+- P/L graph shows the same thing but accounts for the price of the option (negative before breaking even)
+
+Put Payoff Diagram
+
+- Value of the stock decreases as the price of underlying increases
