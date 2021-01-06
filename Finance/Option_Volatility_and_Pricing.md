@@ -314,6 +314,7 @@
 ### Quotes I like
 
 - "The secret, if there is one, is in learning as much as possible, applying in the real world what has been learned, and analyzing both one’s successes and one’s failures."
+- "A new option trader is like someone entering a dark room for the first time. Without any guidance, he may grope around, hoping that he eventually finds what he is looking for. The trader who is armed with a basic understanding of theoretical pricing models enters the same room with a candle. He can make out the general layout of the room, but the dimness of the candle prevents him from distinguishing every detail. Moreover, some of what he sees may be distorted by the flickering of the candle. In spite of these limitations, a trader is more likely to find what he is looking for with a small candle than with no illumination at all."
 - "If a trader is highly proficient at predicting directional moves in the underlying market, he is probably better advised to trade the underlying instrument."
 - "However, an option trader, if he is to make the best use of a theoretical pricing model, must be aware of its limitations as well as its strengths."
 
@@ -582,27 +583,27 @@
 #### The Importance of Probability
 
 - Expected value
-
   - Average payback
     - Ex with dice: If you pay less than $3.5 to roll, in the long run, you expect a profit
     - Ex with roulette: 38 slots, you win $36 if your number comes up, $36/38 = $0.97 so paying $0.97 to play can expect to break even in the long run
   - Edge = profit potential -> difference between price and expected value
-
 - Theoretical value
-
   - The price one would be willing to pay now to break even in the long run
   - The present value of the expected value discounted by interest
   - The goal of option evaluation is to determine the theoretical value of an option by using a theoretical pricing model
     - Traders can use this to determine if price is too high or too low and whether the theoretical edge justifies making a trade
     - But traders must consider risk since theoretical value only works in the long run (must take into account the chance of short-term bad luck)
-
 - A word on models
-
   - A model is a representation of the real world that is made with assumptions
     - Feeding bad data results in an incorrect representation -> garbage in, garbage out
   - All options traders must be aware of the strengths/weaknesses of their models
 
-  
+#### A Simple Approach
+
+- You can propose a series of prices and probabilities for the underlying contract at expiration, then calculate the intrinsic value at each underlying price (using the exercise price) and multiply the value by its associated probability, add the numbers up and get an expected value for the option
+  - For a call: <p>&sum;</p> p<sub>i</sub> * max(S<sub>i</sub>, 0)
+
+
 
 ### Chapter 6: Volatility (60:57 mins)
 ### Chapter 7: Risk Measurement I (44:51 mins)
