@@ -42,7 +42,7 @@
 
 - Parity Graphs
 
-[Chapter 5: Theoretical Pricing Models (37:57 mins)]()
+[Chapter 5: Theoretical Pricing Models (37:57 mins)](https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#chapter-5-theoretical-pricing-models-3757-mins)
 
 - The Importance of Probability
 
@@ -601,7 +601,7 @@
 #### A Simple Approach
 
 - You can propose a series of prices and probabilities for the underlying contract at expiration, then calculate the intrinsic value at each underlying price (using the exercise price) and multiply the value by its associated probability, add the numbers up and get an expected value for the option
-  - For a call: <p>&sum;</p> p<sub>i</sub> * max(S<sub>i</sub>, 0)
+  - For a call: ∑p<sub>i</sub> * max(S<sub>i</sub>, 0)
 
 
 
