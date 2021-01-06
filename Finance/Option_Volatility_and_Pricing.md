@@ -314,6 +314,8 @@
 ### Quotes I like
 
 - "The secret, if there is one, is in learning as much as possible, applying in the real world what has been learned, and analyzing both one’s successes and one’s failures."
+- "If a trader is highly proficient at predicting directional moves in the underlying market, he is probably better advised to trade the underlying instrument."
+- "However, an option trader, if he is to make the best use of a theoretical pricing model, must be aware of its limitations as well as its strengths."
 
 ### Chapter 1: Financial Contracts (24:09 mins)
 
@@ -576,6 +578,31 @@
     - But most people have trouble prediction just market direction...
 - Many option strategies depend only on the speed of the market and not at all on direction
   - If you can predict direction well, you might as well just trade the underlying then
+
+#### The Importance of Probability
+
+- Expected value
+
+  - Average payback
+    - Ex with dice: If you pay less than $3.5 to roll, in the long run, you expect a profit
+    - Ex with roulette: 38 slots, you win $36 if your number comes up, $36/38 = $0.97 so paying $0.97 to play can expect to break even in the long run
+  - Edge = profit potential -> difference between price and expected value
+
+- Theoretical value
+
+  - The price one would be willing to pay now to break even in the long run
+  - The present value of the expected value discounted by interest
+  - The goal of option evaluation is to determine the theoretical value of an option by using a theoretical pricing model
+    - Traders can use this to determine if price is too high or too low and whether the theoretical edge justifies making a trade
+    - But traders must consider risk since theoretical value only works in the long run (must take into account the chance of short-term bad luck)
+
+- A word on models
+
+  - A model is a representation of the real world that is made with assumptions
+    - Feeding bad data results in an incorrect representation -> garbage in, garbage out
+  - All options traders must be aware of the strengths/weaknesses of their models
+
+  
 
 ### Chapter 6: Volatility (60:57 mins)
 ### Chapter 7: Risk Measurement I (44:51 mins)
