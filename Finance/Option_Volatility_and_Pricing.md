@@ -568,6 +568,8 @@
 - PnL
   - You contract PnL by seeing where the position(s) result in debit/credit and adding/subtracting the option cost depending on call/put and long/short
 
+*buying and selling options have different risks/rewards*
+
 ### Chapter 5: Theoretical Pricing Models (37:57 mins)
 
 - Traders who think underlying will rise are more inclined to buy calls or sell puts
@@ -601,9 +603,132 @@
 #### A Simple Approach
 
 - You can propose a series of prices and probabilities for the underlying contract at expiration, then calculate the intrinsic value at each underlying price (using the exercise price) and multiply the value by its associated probability, add the numbers up and get an expected value for the option
-  - For a call: ∑p<sub>i</sub> * max(S<sub>i</sub>, 0)
+  - S<sub>x</sub> is the possible underlying price, p<sub>x</sub> is the probability associated with that price, X = exercise
+  - For a call: ∑p<sub>x</sub> * max(S<sub>x</sub> - X, 0)
+  - For a put: ∑p<sub>x</sub> * max(X - S<sub>x</sub>, 0)
+  - Theoretical value will account for interest
+    - And distribution of probabilities will reflect likelihood (far from current price = less likely)
+  - Expected value for underlying should represent the most likely value at expiration
+    - There is no way to know the actual future value of the underlying but you can know what the marketplace thinks it is
+      - If the theoretical forward price is different from the actual forward price, everyone would execute arbitrage (buying or selling the forward contract and taking the opposite direction in the cash market)
+    - So the marketplace must think that the forward price is the most likely future value for the underlying
+      - If we assume market is arbitrage free, expected value of underlying = forward price
+      - Ex: stock is trading at $100 and two month forward price is 100 * \[1 + (.12 * 2/12)] = $102 so $102 is expected value of the stock
+        - So you assign probabilities around $102 instead of $100 to get the expected value of the $100 call
+        - \### this is confusing \###
+  - The forward price **matters**
+    - At the money: exercise price = current price
+    - At the forward: exercise price = forward price at expiration
+      - In many markets, at the forward options are mostly traded and are used as a benchmark 
+    - There are also infinite price possibilities in the real world
+- To develop a model
+  1. Propose a series of possible prices at expiration for the underlying
+  2. Assign a probability to each possible price (assuming market is arbitrage free) so expected value of underlying = forward price
+  3. From the prices and probabilities and exercise price, calculate the value of the option
+  4. Calculate the present value of the expected value
 
+#### The Black-Scholes Model
 
+- The most widely used of all option pricing models
+
+  - Has been adapted for futures -> the Black model
+  - All forms differ only in how they calculate forward price of the underlying and the settlement procedures for the options 
+
+- To calculate theoretical value using Black Scholes, we need 5 minimum characteristics of the option and its underlying
+
+  1. The options exercise price
+  2. The time remaining to expiration
+  3. The current price of the underlying
+  4. The applicable interest rate over the life of the option
+  5. The volatility of the underlying (related to speed of the underlying market or the probabilities of different price outcomes)
+     - We feed these into a pricing model -> theoretical value
+
+- Black Scholes also incorporates a riskless hedge
+
+  - There is theoretically an equivalent position in the underlying contract such that for small changes in the underlying, the option position will gain or lose value at the exact same rate as the underlying position
+    - You offset the option position with a theoretically equivalent underlying position
+    - Take opposing market position in the underlying contract
+      - The correct proportion of underlying contracts needed for the riskless hedge is determined by the option's hedge ratio
+
+- Why do you need a risk less hedge?
+
+  - As the price of the underlying changes, the probability of each outcome also changes
+  - Establishing the risk less hedge and then adjusting the hedge position as market conditions change takes these changing probabilities into consideration
+  - The option is like a substitute for a position in the underlying (call for long, put for short)
+    - Wether the substitute is better than the outright position depends on the theoretical value of the option compared with its price in the marketplace
+      - Ex: if a call can be purchased for less that its theoretical value (or put can be sold for more), it is more profitable in the long run than purchasing the underlying
+
+- Summary of positions and hedges
+
+  - | Option Position | Corresponding Market Position | Appropriate hedge |
+    | --------------- | ----------------------------- | ----------------- |
+    | Buy call(s)     | long                          | Sell underlying   |
+    | Sell call(s)    | short                         | Buy underlying    |
+    | Buy put(s)      | short                         | Buy underlying    |
+    | Sell put(s)     | long                          | Sell underlying   |
+
+    We do the opposite with calls (buy calls, sell underlying) but same with puts (sell puts, sell underlying)
+
+- Comments on the model inputs
+
+  - Time to expiration
+
+    - A year is usually the standard unit of time
+    - Used to
+      1. Determine the likelihood of price movement in the underlying
+         - We only care about **trading days** here -> business days
+      2. Make interest calculations
+    - As the option nears expiration, theoretical pricing models become less reliable because inputs get less reliable...
+
+  - Underlying price
+
+    - Which price do you use? Last traded? Bid? Ask?
+      - This matters because what you use determines your hedge
+      - So the underlying price you use should be the price you think you can make the opposing trade at
+        - Ex: if you are buying calls or selling puts (long), you hedge by selling the underlying -> use something close to the bid
+    - If the market is liquid, trader can just use the midpoint because that is fairly reasonable
+
+  - Interest rates
+
+    - Since options can result in credit or debit, the interest from the resulting cash flow matters -> function of interest rates over the life of the option
+
+    - Interest rates play 2 roles
+
+      1. They may affect the forward price of the underlying
+         - Ex for stock type settlement: raise interest rates = raise forward price = increasing value of calls and decreasing the value of puts
+      2. Interest rates can affect present value
+         - Ex for stock type settlement: as we raise interest rates, we reduce the present value of the option
+
+      - Sometimes different rates are applicable (forex) so the model needs two inputed
+
+    - Textbooks suggest using the risk free rate: the rate for the most credit worthy borrower (the government)
+
+      - So we use the yield of a government security with maturity equivalent to the life of the option
+        - Ex: 60-day option -> 60-day treasury bill
+
+    - In practice, no one borrows at the same rate of the government so the risk free rate is unrealistic
+
+      - Borrowing and lending rates are also different, which further complicates things 
+      - So just use a rate that makes sense
+
+  - Dividends
+
+    - Need to estimate amount and date of dividend to get an accurate forward price
+      - Only ownership of a stock carries the right to its dividend
+
+  - Volatility 
+
+    - Hardest to understand, but often the most important
+
+#### Questions:
+
+- Why does ev of the underlying have to be = to forward price / value at expiration?
+  - Review of forward price and why it's important 
+- What does this mean:
+  - "If a call can be purchased for less than its theoretical value or a put can be sold for more than its value, in the long run, it will be more profitable to take a long market position by purchasing calls or selling puts than by purchasing the underlying contract."
+- Review the hedge summary with examples
+  - Like what does "sell underling" mean?
+- Why do we use treasury yields?
 
 ### Chapter 6: Volatility (60:57 mins)
 ### Chapter 7: Risk Measurement I (44:51 mins)
