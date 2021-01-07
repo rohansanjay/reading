@@ -1,6 +1,6 @@
 # Themes from Othello by William Shakespeare
 
-self-isolation as an act of self-preservation leads ultimately to self-destruction. Such self-isolation leads to the deaths of Roderigo, Iago, Othello, and even Emilia.
+Self-isolation as an act of self-preservation leads ultimately to self-destruction. Such self-isolation leads to the deaths of Roderigo, Iago, Othello, and even Emilia.
 
 - Othello is isolated by his race
 - Roderigo is attached to Iago
