@@ -615,7 +615,8 @@
       - If we assume market is arbitrage free, expected value of underlying = forward price
       - Ex: stock is trading at $100 and two month forward price is 100 * \[1 + (.12 * 2/12)] = $102 so $102 is expected value of the stock
         - So you assign probabilities around $102 instead of $100 to get the expected value of the $100 call
-        - \### this is confusing \###
+        - Because expected value needs to be equal to the forward price or else there will be arbitrage
+          - If not, you are not using the most likely value at expiration
   - The forward price **matters**
     - At the money: exercise price = current price
     - At the forward: exercise price = forward price at expiration
@@ -719,16 +720,6 @@
   - Volatility 
 
     - Hardest to understand, but often the most important
-
-#### Questions:
-
-- Why does ev of the underlying have to be = to forward price / value at expiration?
-  - Review of forward price and why it's important 
-- What does this mean:
-  - "If a call can be purchased for less than its theoretical value or a put can be sold for more than its value, in the long run, it will be more profitable to take a long market position by purchasing calls or selling puts than by purchasing the underlying contract."
-- Review the hedge summary with examples
-  - Like what does "sell underling" mean?
-- Why do we use treasury yields?
 
 ### Chapter 6: Volatility (60:57 mins)
 ### Chapter 7: Risk Measurement I (44:51 mins)
