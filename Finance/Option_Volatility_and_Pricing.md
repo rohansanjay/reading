@@ -722,6 +722,15 @@
     - Hardest to understand, but often the most important
 
 ### Chapter 6: Volatility (60:57 mins)
+
+- Options traders are sensitive to direction **and** speed
+  - If the market for the underlying doesn't move fast enough, the option will have less value because it is less likely that the market goes through the exercise price
+  - volatility is like a measure of the speed of the market
+    - Slow = low-volatility
+    - High = high-volatility 
+- We can use volatility info for theoretical pricing models for more accuracy
+  - So, we need a way to quantify it numerically
+
 ### Chapter 7: Risk Measurement I (44:51 mins)
 ### Chapter 8: Dynamic Hedging (32:12 mins)
 ### Chapter 9: Risk Measurement II (39:06 mins)
