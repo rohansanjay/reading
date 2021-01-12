@@ -50,7 +50,7 @@
 
 - The Black-Scholes Model
 
-[Chapter 6: Volatility (60:57 mins)]()
+[Chapter 6: Volatility (60:57 mins)](https://github.com/rohansanjay/reading/blob/main/Finance/Option_Volatility_and_Pricing.md#chapter-6-volatility-6057-mins)
 
 - Random Walks and Normal Distributions
 
