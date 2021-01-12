@@ -731,6 +731,26 @@
 - We can use volatility info for theoretical pricing models for more accuracy
   - So, we need a way to quantify it numerically
 
+#### Random Walks and Normal Distributions
+
+- Pin ball analogy
+  - Balls sideways movement = up and down price movement of an underlying contract
+  - Balls downward movement = passage of time
+  - So if price follows a random walk -> distributed normally
+    - Curvature = low, high, moderate volatility markets
+  - You can assume that at expiration, the underlying prices are normally distributed
+    - Important distinction between option position and underlying position
+      - Expected value of underlying depends on all possible prices
+      - Expected value of option depends only on prices that result in the option finishing in the money -> everything else is 0
+  - scenarios
+    - If we want to evaluate a call at a higher exercise price, value depends on the amount of the distribution to the right to exercise price
+      - As volatility increases, a greater portion of the distribution lies to the right -> option value increases
+    - Put at a lower exercise price
+      - More distribution to the left of the exercise (higher volatility) takes on greater value
+    - In low volatility markets, all options take on reduced values
+
+#### Mean and Standard Deviation
+
 ### Chapter 7: Risk Measurement I (44:51 mins)
 ### Chapter 8: Dynamic Hedging (32:12 mins)
 ### Chapter 9: Risk Measurement II (39:06 mins)
