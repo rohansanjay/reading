@@ -14,3 +14,10 @@
 - Mutually exclusive: A ∩ B = ∅ (empty set)
   - For mutually exclusive events E<sub>1</sub>, E<sub>2</sub>, ... , E<sub>n</sub>, P(∪ E<sub>x</sub>) = ∑ P(E<sub>x</sub>)
 - Random variable: a function that maps each outcome in the sample space into a set of real numbers
+
+#### 4.2 Combinatorial Analysis
+
+- Basic principle of counting
+  - There are a total of N<sub>1</sub> * N<sub>2</sub> * ... * N<sub>k</sub> possible outcomes
+- Permutation = rearrangement of object into distinct sequences (order matters)
+  - There are N! / (N<sub>1</sub>! * N<sub>2</sub>! * ... * N<sub>k</sub>!) different permutations...
