@@ -751,6 +751,15 @@
 
 #### Mean and Standard Deviation
 
+- Mean = location of the peak -> average outcome
+- Std = measure of how fast the distribution spreads
+  - Empirical rule
+    - +/- 1 std takes in 68.3% (about 2/3) of all occurrences 
+    - +/- 2 std takes in 95.4% (about 19/20) of all occurrences
+    - +/- 3 std takes in 99.7% (about 369/370) of all occurrences
+- Assuming the price is normal makes calculations much easier -> solve for an option's theoretical value
+  - Black-Scholes uses a modified form because assuming prices are normal isn't always logical
+
 ### Chapter 7: Risk Measurement I (44:51 mins)
 ### Chapter 8: Dynamic Hedging (32:12 mins)
 ### Chapter 9: Risk Measurement II (39:06 mins)
