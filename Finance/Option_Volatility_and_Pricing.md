@@ -760,6 +760,11 @@
 - Assuming the price is normal makes calculations much easier -> solve for an option's theoretical value
   - Black-Scholes uses a modified form because assuming prices are normal isn't always logical
 
+#### Forward Price as the Mean of a Distribution
+
+- If forward price = mean, then in the long run, a trade made at current underlying will break even
+  - Black Scholes takes the underlying and calculates forward price -> makes this the mean of the distribution 
+
 ### Chapter 7: Risk Measurement I (44:51 mins)
 ### Chapter 8: Dynamic Hedging (32:12 mins)
 ### Chapter 9: Risk Measurement II (39:06 mins)
