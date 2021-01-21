@@ -763,7 +763,85 @@
 #### Forward Price as the Mean of a Distribution
 
 - If forward price = mean, then in the long run, a trade made at current underlying will break even
-  - Black Scholes takes the underlying and calculates forward price -> makes this the mean of the distribution 
+  - Black Scholes takes the underlying and calculates forward price -> makes this the mean of the distribution
+
+#### Volatility as Standard Deviation
+
+- Volatility is a traders standard deviation (𝝈)
+  - One std price change in percent over a 1 year period
+    - Ex: contract with 1 year forward price of 100 has volatility 20% -> mean = 100
+      - In 1 year, 68% chance the that contract will trade between 80 and 120, 95% chance between 60 and 140, 99.7% chance trading between 40 and 160 (1, 2, and 3 stds)
+
+#### Scaling Volatility for Time
+
+- Volatility is proportional to the square root of time
+  - Volatility<sub>t</sub> = volatility<sub>annual</sub> * √t
+  - Most traders assume 256 trading days per year for convenience (√256 = 16)
+    - V<sub>daily</sub> = v<sub>annual</sub> * √(1/256) = v<sub>annual</sub> * 1/16 = v<sub>annual</sub> / 16
+      - So daily std = annual volatility / 16
+    - Similarly, volatility<sub>weekly</sub> = volatility<sub>annual</sub> * √(1/52) = volatility<sub>annual</sub> / 7.2
+    - To be accurate, you should center around the 1 week or 1 day forward price
+      - But for convenience, traders sometimes assume forward price = current price
+
+#### Volatility and Observed Price Changes
+
+- There is never a current volatility that a trader can crosscheck 
+- Traders use settlement to settlement price changes to calculate volatility
+
+#### Lognormal Distributions
+
+- Negative pricing is a flaw of assuming normality 
+- Volatility and interest both represent rates of return
+  - But interest accrues only at a positive rate while a volatility other than 0 can produce negative
+- Compounding interest results in both bigger gains and smaller losses
+  - Similarly, volatility can be compounded at different intervals 
+    - Black-scholes is a continuous-time model
+      - Price changes are continuous but at an annual rate corresponding to the volatility of the underlying
+  - Continuous compounding results in a lognormal distribution of prices at expiration
+    - Skewed toward the upside because positive rates of return are greater than negative
+    - Ex: one std upward price change at the end of one year is +x while one std downward price change is -y (x > y)
+- Lognormal distribution has mean located to the right of the peak
+  - Right-tail is longer than the left tail (more weight to he right of the peak)
+    - Continuous rates of return are calculated with the exponential function (e<sup>x</sup>)
+  - Continuous compounding also protects from negative prices
+    - But calls will always have a greater value since the upside has no limits
+
+#### Interpreting Volatility Data
+
+- Realized volatility: annualized std of percent price changes of an underlying contract over some period of time
+  - We must specify the interval at which we are measuring price changes and the number of intervals to be used in calculations 
+    - Ex: 50-day volatility of the underlying contract
+  - The goal is to accurately forecast future realized volatility 
+- Implied volatility: derived from the price of an option in a marketplace
+  - The marketplace consensus of what the future realized volatility of the underlying contract will be over the life of the option
+    - Ex: you calculate theoretical value of an option as 2.94 but it's trading at 3.6 - why?
+      - The marketplace is using a different volatility if you are using the same pricing models
+      - You can calculate this by going backwards - volatility implied to the underlying contract through the pricing of the option in the marketplace 
+        - Pricing model -> implied volatility 
+  - Depends on inputs into the pricing model and also the model being used
+  - Premium and implied volatility are used interchangeably
+  - New traders are taught to sell overprice options and buy underprices options
+    - But the price could be based on implied volatility -> if the volatility estimate < implied volatility, the option could be volatility points overpriced
+    - Traders often price an option based on its iv -> ex: bought a call at 28.5%
+      - Some traders think it is a more useful expression of an options price than it's actual price in currency
+- Future realized volatility -> value of options on the contract
+- Implied volatility -> reflection of an option's price
+- Traders care about value and price
+  - High value and low price -> you want to be a buyer
+    - iv is low compared to expected future volatility 
+  - Low value and high price -> you want to be a seller
+    - iv is high
+  - So you compare expected future realized volatility with the implied volatility 
+  - So future realized volatility determines an option's value
+- Use weather as an analogy
+  - Forecast says sunny but people are wearing a raincoat and umbrella
+    - People are implying different weather
+  - Who do you believe? The answer is uncertain, but you have a system to think about it
+    - Changing our assumptions about volatility can have a dramatic effect on the value of the option 
+- Important points
+  - In total points, a change in volatility will have a greater effect on an at-the-money option than on an equivalent in-the-money or out-of-the-money option.
+  - In percent terms, a change in volatility will have a greater effect on an out-of-the-money option than on an equivalent in-the-money or at-the-money option.
+  - A change in volatility will have a greater effect on a long-term option than an equivalent short-term option.
 
 ### Chapter 7: Risk Measurement I (44:51 mins)
 ### Chapter 8: Dynamic Hedging (32:12 mins)
