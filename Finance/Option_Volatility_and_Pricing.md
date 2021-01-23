@@ -843,6 +843,8 @@
   - In percent terms, a change in volatility will have a greater effect on an out-of-the-money option than on an equivalent in-the-money or at-the-money option.
   - A change in volatility will have a greater effect on a long-term option than an equivalent short-term option.
 
+*iv is the expected magnitude of a stock's future price change (implied by option prices); higher iv = larger expected movement, lower iv = smaller expected movements*
+
 ### Chapter 7: Risk Measurement I (44:51 mins)
 ### Chapter 8: Dynamic Hedging (32:12 mins)
 ### Chapter 9: Risk Measurement II (39:06 mins)
