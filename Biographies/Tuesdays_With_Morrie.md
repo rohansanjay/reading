@@ -69,4 +69,3 @@
 - We all want someone to hear our story
 - Photos and videos, etc. are a way to steal from death's suitcase
 - We don't think about our lives as a whole until we are faced with death—we are consumed by egotistical thoughts
-- 
