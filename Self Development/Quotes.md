@@ -5,4 +5,7 @@
 - "No is a complete sentence" - Esther from 180
 - “Engage with a handful of people deeply rather than many in a shallow way” - Grant Sanderson
 - “Choose just a handful of things you engage with and engage with them well in a way you’re proud of” - Grant Sanderson
+- “Suffering is essential for creation, where you can suffer beautifully in a way that doesn’t destroy you” - Lex Fridman
+- "It's easy to love someone for all the wonderful characteristics they have, but it's harder to love someone despite their faults and see them as something special" - Lisa Feldman
+- “People don’t lie to you about who they are, they lie to themselves in your presence - you don't want to get tangled up in that” - Lisa Feldman
 
