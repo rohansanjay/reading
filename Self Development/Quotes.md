@@ -9,6 +9,7 @@
 - "It's easy to love someone for all the wonderful characteristics they have, but it's harder to love someone despite their faults and see them as something special" - Lisa Feldman
 - “People don’t lie to you about who they are, they lie to themselves in your presence—you don't want to get tangled up in that” - Lisa Feldman
 - "You cannot be a self by yourself" - Hazel Rose Markus
-- "Choose relationships that allow you to be your best selves" - Lisa Feldman 
+- "Choose relationships that allow you to be your best *selves*" - Lisa Feldman 
 - "Creativity is not disconnected from art" - Manolis Kellis
+- "A superior man is modest in his speech, but exceeds in his actions" - Confucius
 

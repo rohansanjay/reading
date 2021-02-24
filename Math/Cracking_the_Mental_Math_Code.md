@@ -43,3 +43,15 @@
     - = 56 * 25 * 4/4 = 56/4 * 25 * 4 = 56/4 * 100 = 1400
   - 47 * 25 
     - = 47/4 * 25 * 4 = 11.75 * 100 = 1175
+
+### 1.5 Multiplying by 125
+
+- 125 * 8 = 1000
+  - Divide the number by 8 and multiply by 1000
+  - Ex: 72 * 125 = 72/8 * 1000 = 9000
+
+### 1.6 Multiplying by any Number Ending in 5
+
+- Double the number ending in 5 and half the other one
+  - Ex: 32 * 15 -> 32 / 2 * 15 * 2 = 16 * 30 = 480
+  - Note: only do this if the other number is even
