@@ -12,4 +12,5 @@
 - "Choose relationships that allow you to be your best *selves*" - Lisa Feldman 
 - "Creativity is not disconnected from art" - Manolis Kellis
 - "A superior man is modest in his speech, but exceeds in his actions" - Confucius
+- “If you get anyone to start talking about themselves enough, they will forget that they were mad at you in the first place”  - Matt Fan
 
