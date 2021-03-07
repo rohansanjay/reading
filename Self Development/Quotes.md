@@ -14,4 +14,5 @@
 - "A superior man is modest in his speech, but exceeds in his actions" - Confucius
 - “If you get anyone to start talking about themselves enough, they will forget that they were mad at you in the first place”  - Matt Fan
 - “Human beings are amazing at extensively self-justifying their actions” - Amit
+- "Unheroic days can make for heroic decades" - James Clear
 
