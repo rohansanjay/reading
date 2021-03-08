@@ -15,4 +15,6 @@
 - “If you get anyone to start talking about themselves enough, they will forget that they were mad at you in the first place”  - Matt Fan
 - “Human beings are amazing at extensively self-justifying their actions” - Amit
 - "Unheroic days can make for heroic decades" - James Clear
+- "A teacher affects eternity; he can never tell where his influence stops" - Henry Adams
+- "Love each other or perish - without love, we are bird with broken wings" - Morrie
 

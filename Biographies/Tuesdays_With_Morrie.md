@@ -69,3 +69,28 @@
 - We all want someone to hear our story
 - Photos and videos, etc. are a way to steal from death's suitcase
 - We don't think about our lives as a whole until we are faced with death—we are consumed by egotistical thoughts
+
+### 11. The Audiovisual, Part Two
+
+- Pain doesn't always recede with time but can recede with group support
+  - He is still saddened by the loss of his mother 70 years ago and wishes we
+
+### 12. The Professor
+
+- Education can be an antidote to poverty
+- He never wanted to do work that exploited someone else
+
+### 13. The Fourth Tuesday We Talk About Death
+
+- Everyone knows they are going to die but nobody believes it
+  - Once you learn how to die, you learn how to live
+    - You become more spiritual and appreciative
+
+### 14. The Fifth Tuesday We Talk About Family
+
+- You need family love, care, support, and concern
+  - Letting someone know there is someone who is watching out for them -> spiritual security
+    - You can't get this from money, fame, work, etc. 
+- There is no experience like having children
+  - Complete responsibility for another human being - learn how to love and bond in the deepest way
+
