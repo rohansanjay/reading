@@ -16,5 +16,5 @@
 - “Human beings are amazing at extensively self-justifying their actions” - Amit
 - "Unheroic days can make for heroic decades" - James Clear
 - "A teacher affects eternity; he can never tell where his influence stops" - Henry Adams
-- "Love each other or perish - without love, we are bird with broken wings" - Morrie
+- "Love each other or perish—without love, we are birds with broken wings" - Morrie
 

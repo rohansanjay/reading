@@ -1,0 +1,35 @@
+# The Implied Order Book by SqueezeMetrics
+
+- Stock market = ledger of who is willing to buy and sell stocks @ what price
+  - Limit order book -> what every trader wants to see because it shows supply and demand
+  - You want the best fill at the lowest total cost
+  - But you can't get a good picture of market liquidity by looking at order books in a traditional sense
+    - That's where **options** come into play -> gives us a clearer view of market liquidity
+- Options are known for nonlinear payoffs but it's more interesting to understand how that payoff is synthesized
+  - When you buy or sell an option, there is a dealer on the other side who hedges by taking a dynamic position in the underlying
+    - The goal is to replicate the payoff of the option
+    - Ex: if you buy at at-the-money put from a dealer, the dealer will short 50% of the notation value of the put
+      - If underlying goes down, he will short more
+      - If it goes up, he will cover
+  - This is **delta hedging**
+    - If you sell (short) a put, you indirectly add liquidity to the market
+    - When you buy a put, you basically are placing stop-loss orders above and below the market
+      - These take liquidity 
+    - You can build an implied order book by knowing how existing options must be hedged 
+      - Then you can see where option-originated liquidity is abundant and scarce
+- Deltas
+  - Black-Scholes delta takes an option price, assumes day-to-day movement is normally distributed, and gives you a distribution of returns -> calculate the probability that an option ends in the money at expiration
+    - Delta = how much option price changes per unit of change in the underlying
+      - Ex: delta of 30 (.30) means that the price of the option contract moves $0.30 for every $1.00 change in the underlying
+      - As underlying pushes the option further in the money, delta goes up
+      - As underlying pushes the option further out of the money, delta goes down
+  - We care about to track liquidity is change in delta -> when delta changes enough that an option dealer will re-hedge exposure (buying or selling underlying)
+  - What causes option deltas to change
+    - Changes in underlying price = gamma
+      - Gamma exposure (GEX) = delta sensitivity to changes in price of underlying
+    - Changes in implied volatility = vanna
+      - Vanna exposure (VEX) = delta sensitivity to changes in implied volatility
+    - Changes in time = charm
+      - Too small of an effect to have practical utility
+  - DDOI = dealer directional open interest
+    - Measures whether options dealers are short or long any particular option expiration, strike, and type
