@@ -55,3 +55,33 @@
 - Double the number ending in 5 and half the other one
   - Ex: 32 * 15 -> 32 / 2 * 15 * 2 = 16 * 30 = 480
   - Note: only do this if the other number is even
+
+### 1.10 Multiplying 2 Numbers with an Even Difference
+
+- a<sup>2</sup> - b<sup>2</sup> = (a + b)(a - b)
+  - 22 * 24 = (23 - 1)(23 + 1) = 23<sup>2</sup> - 1<sup>1</sup> = 529 - 1 = 528
+- Ex: 29 * 35 = (32 - 3)(32 + 3) = ...
+
+### 1.11 Multiplying 2 Numbers with the Same Tens Digit and Ones Digits that Add to 10
+
+- Step 1: multiply ones digit of both together (make it take up two place values ex: 09, 16, 21...)
+- Step 2: multiply the tens digit by one more than itself
+- Ex: 23 * 27 = 2 * 3 | 3 * 7 = 621
+
+### 1.12 FOIL
+
+- Very important trick
+- ab = 10a + b and cd = 10c + d
+  - = (10a + b) * (10c + d)
+  - = 100ac + 10ad + 10bc + bd
+  - = 100(ac) + 10(ad + bc) + bd
+- steps
+  - 1: ones digit of answer = product of ones digits of both numbers multiplied
+  - 2: tens digs of answer = sum of product of outer digits plus product of inner digits
+  - 3: hundreds digit = product of the tens digit of the two numbers multiplied
+- Ex: 28 * 52
+  - 8 * 2 = 16; write 6 & carry 1
+  - 2 * 2 = 4 & 8 * 5 = 40; 4 + 40 + 1 = 45; write 5 carry 4
+  - 2 * 5 = 10; 10 + 4 = 14
+  - Answer = 1456
+
