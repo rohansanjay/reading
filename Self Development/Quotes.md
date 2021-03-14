@@ -19,4 +19,7 @@
 - "Love each other or perish—without love, we are birds with broken wings." - Morrie
 - "Hack implies some sort of trick—like you’re gaming the system. What works in mechanism.” - Andrew Huberman
 - “Pain is weakness leaving the body.” - Amit
-
+- "Better living through chemistry still requires better living." - Andrew Huberman's Friend
+- "Language is not just words, it’s everything together—and that’s one of the fascinating things about the eyes and the window to the soul." - Lex Fridman
+- "Getting into states of wordlessness is very renewing and replenishing." - Andrew Huberman
+- "Repetition unlocks value." - James Clear
