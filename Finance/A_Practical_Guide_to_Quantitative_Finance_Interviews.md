@@ -30,13 +30,13 @@
   - ![equation](https://latex.codecogs.com/gif.latex?%7Bn%20%5Cchoose%20r%7D%20%3D%20%5Cfrac%7Bn%21%7D%7B%28n%20-%20r%29%21r%21%7D)
 
 - Binomial theorem: 
-  $$
-  (x + y)^n = \sum_{k = 0}^{n}{n \choose k}x^ky^{n-k}
-  $$
+
+  - ![equation](https://latex.codecogs.com/gif.latex?%28x%20&plus;%20y%29%5En%20%3D%20%5Csum_%7Bk%20%3D%200%7D%5E%7Bn%7D%7Bn%20%5Cchoose%20k%7Dx%5Eky%5E%7Bn-k%7D)
   - This makes sense because for ex, coefficient of x<sup>2</sup>y<sup>2</sup> means you choose 2 x's and 2 y's
 
 - Inclusion-Exclusion Principle: 
-  $$
-  P(E_1 \cup E_2) = P(E_1) + P(E_2) - P(E_1E_2)...
-  $$
+
+  - ![equaiton](https://latex.codecogs.com/gif.latex?P%28E_1%20%5Ccup%20E_2%29%20%3D%20P%28E_1%29%20&plus;%20P%28E_2%29%20-%20P%28E_1E_2%29...)
+
   
+
