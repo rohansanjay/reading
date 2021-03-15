@@ -27,9 +27,7 @@
   
 - Combination = unordered collection of objects
 
-  - $$
-    {n \choose r} = \frac{n!}{(n - r)!r!}
-    $$
+  - ![equation](https://latex.codecogs.com/gif.latex?%7Bn%20%5Cchoose%20r%7D%20%3D%20%5Cfrac%7Bn%21%7D%7B%28n%20-%20r%29%21r%21%7D)
 
 - Binomial theorem: 
   $$
