@@ -18,6 +18,27 @@
 #### 4.2 Combinatorial Analysis
 
 - Basic principle of counting
+  
   - There are a total of N<sub>1</sub> * N<sub>2</sub> * ... * N<sub>k</sub> possible outcomes
+  
 - Permutation = rearrangement of object into distinct sequences (order matters)
+  
   - There are N! / (N<sub>1</sub>! * N<sub>2</sub>! * ... * N<sub>k</sub>!) different permutations...
+  
+- Combination = unordered collection of objects
+
+  - $$
+    {n \choose r} = \frac{n!}{(n - r)!r!}
+    $$
+
+- Binomial theorem: 
+  $$
+  (x + y)^n = \sum_{k = 0}^{n}{n \choose k}x^ky^{n-k}
+  $$
+  - This makes sense because for ex, coefficient of x<sup>2</sup>y<sup>2</sup> means you choose 2 x's and 2 y's
+
+- Inclusion-Exclusion Principle: 
+  $$
+  P(E_1 \cup E_2) = P(E_1) + P(E_2) - P(E_1E_2)...
+  $$
+  
