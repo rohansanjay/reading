@@ -23,3 +23,8 @@
 - "Language is not just words, it’s everything together—and that’s one of the fascinating things about the eyes and the window to the soul." - Lex Fridman
 - "Getting into states of wordlessness is very renewing and replenishing." - Andrew Huberman
 - "Repetition unlocks value." - James Clear
+- "Don't cling to things because everything this is impermanent." - Morrie
+- "Fate succumbs many a species: one along jeopardizes itself." - W. H. Auden
+- "Each night, when I go to sleep, I die. And the next morning, when I wake up, I am reborn." - Mahatma Gandhi
+- "If you've found meaning in your life, you don't want to go back. You want to go forward." - Morrie
+- "Only an open heart will allow you to float equally between everyone." - Morrie
