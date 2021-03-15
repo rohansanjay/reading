@@ -10,6 +10,15 @@
 - "Maybe death is the great equalizer, the one big thing that can make strangers shed a tear for one another."
 - "If you are ever going to have other people trust you, you must feel that you can trust them too—even when you're in the dark. Even when you're falling."
 - "We all need teachers in our lives."
+- "Don't cling to things because everything this is impermanent."
+- "If you hold back on the emotions—if you don't allow yourself to go all the way through them—you can never get to being detached, you're too busy being afraid." 
+- "Turn on the faucet. Wash yourself with emotion. It won't hurt you. It will only help."
+- "Aging is not decay ya know. It's growth."
+- "If you've found meaning in your life, you don't want to go back. You want to go forward."
+- "You can't substitute material things for love or for gentleness or for tenderness or for a sense of comradeship."
+- "Only an open heart will allow you to float equally between everyone."
+- "Love is how you stay alive, even after you are gone."
+- "The big things—how we think, what we value—those you must choose yourself. You can't let anyone—or any society—determine those for you."
 
 ### 1. The Curriculum
 
@@ -93,4 +102,54 @@
     - You can't get this from money, fame, work, etc. 
 - There is no experience like having children
   - Complete responsibility for another human being - learn how to love and bond in the deepest way
+
+### 15. The Sixth Tuesday We Talk About Emotions
+
+- Detach yourself from experience
+  - Let the experience penetrate you fully so that you can leave it
+    - When you do this, you learn what each emotion is and can recognize them
+  - Ex: When you are lonely, you cry and let go. Feel it completely. And then put it aside and experience other emotions—detach. You are no longer afraid of it. 
+
+### 16. The Professor, Part Two
+
+- People want you to notice that they are there
+- People want to feel that they matter
+
+### 17. The Seventh Tuesday We Talk About the Fear of Aging
+
+- Embrace again—as you grow, you learn more
+- If you've found meaning in your life, you don't want to go back. You want to go forward. 
+- You can find good in any phase of your life
+
+### 18. The Eighth Tuesday We Talk About Money
+
+- "More is good" is delusional
+- Giving gives you satisfaction
+  - You get respect by offering something you have
+
+*Give people your time*
+
+### 19. The Ninth Tuesday We Talk About How Love Goes On
+
+- Be fully present—*with* the person you are actually with
+  -  A lot of people will fake their way back in the moment by re-entering once you are done talking
+
+*Give people your attention*
+
+### 20. The Tenth Tuesday We About Marriage
+
+- You need to know yourself before you can know others
+- Rules about marriage
+  - If you don't respect your partner, you will have a lot of trouble
+  - If you don't know how to compromise, you will have a lot of trouble
+  - If you can't talk openly about what goes on between you, you will have a lot of trouble
+  - If you don't have a common set of values if life, you will have a lot of trouble
+    - The most important: the belief in the importance of your marriage
+
+### 21. The Eleventh Tuesday We About Our Culture
+
+- People are only mean when they feel threatened
+- Every society has it's own problems, so create your own culture
+
+*Invest in people* 
 
