@@ -153,3 +153,15 @@
 
 *Invest in people* 
 
+### 22. The Audiovisual, Part Three
+
+- Be compassionate
+
+### 23. The Twelfth Tuesday We About Forgiveness
+
+- Forgive yourself before you die and then forgive others
+  - There is no point to pride or vanity
+  - Don't get stuck on regret
+
+*You need to make peace with yourself and everyone around you*
+

@@ -30,4 +30,5 @@
 - "Only an open heart will allow you to float equally between everyone." - Morrie
 - "Nothing is really work unless you would rather be doing something else." - James M. Barrie
 - “You really have to know a field to extract the best things from that field” - Andrew Huberman
+- "Love each other or die" - Morrie
 
