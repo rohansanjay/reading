@@ -28,3 +28,6 @@
 - "Each night, when I go to sleep, I die. And the next morning, when I wake up, I am reborn." - Mahatma Gandhi
 - "If you've found meaning in your life, you don't want to go back. You want to go forward." - Morrie
 - "Only an open heart will allow you to float equally between everyone." - Morrie
+- "Nothing is really work unless you would rather be doing something else." - James M. Barrie
+- “You really have to know a field to extract the best things from that field” - Andrew Huberman
+
