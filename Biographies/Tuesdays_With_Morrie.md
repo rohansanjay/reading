@@ -136,7 +136,7 @@
 
 *Give people your attention*
 
-### 20. The Tenth Tuesday We About Marriage
+### 20. The Tenth Tuesday We Talk About Marriage
 
 - You need to know yourself before you can know others
 - Rules about marriage
@@ -146,7 +146,7 @@
   - If you don't have a common set of values if life, you will have a lot of trouble
     - The most important: the belief in the importance of your marriage
 
-### 21. The Eleventh Tuesday We About Our Culture
+### 21. The Eleventh Tuesday We Talk About Our Culture
 
 - People are only mean when they feel threatened
 - Every society has it's own problems, so create your own culture
@@ -157,11 +157,34 @@
 
 - Be compassionate
 
-### 23. The Twelfth Tuesday We About Forgiveness
+### 23. The Twelfth Tuesday We Talk About Forgiveness
 
 - Forgive yourself before you die and then forgive others
   - There is no point to pride or vanity
   - Don't get stuck on regret
 
 *You need to make peace with yourself and everyone around you*
+
+### 24. The Thirteenth Tuesday We About the Perfect Day
+
+- When you make peace with death, you make peace with life
+- Your love lives on even after you pass
+- There is no formula for relationships
+  - They have to be negotiated in loving ways
+  - Both parties—what they want and what they need
+
+*Death ends a life, not a relationship*
+
+### 25. The Fourteenth Tuesday We Say Good-bye
+
+- Good-byes are hard
+
+*Cry*
+
+### Conclusion
+
+- There is no such thing as too late in life
+- Be fully present always
+
+
 
