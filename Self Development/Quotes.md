@@ -16,19 +16,26 @@
 - “Human beings are amazing at extensively self-justifying their actions.” - Amit
 - "Unheroic days can make for heroic decades." - James Clear
 - "A teacher affects eternity; he can never tell where his influence stops." - Henry Adams
-- "Love each other or perish—without love, we are birds with broken wings." - Morrie
+- "Love each other or perish—without love, we are birds with broken wings." - Morrie Schwartz
 - "Hack implies some sort of trick—like you’re gaming the system. What works in mechanism.” - Andrew Huberman
 - “Pain is weakness leaving the body.” - Amit
 - "Better living through chemistry still requires better living." - Andrew Huberman's Friend
 - "Language is not just words, it’s everything together—and that’s one of the fascinating things about the eyes and the window to the soul." - Lex Fridman
 - "Getting into states of wordlessness is very renewing and replenishing." - Andrew Huberman
 - "Repetition unlocks value." - James Clear
-- "Don't cling to things because everything this is impermanent." - Morrie
+- "Don't cling to things because everything this is impermanent." - Morrie Schwartz
 - "Fate succumbs many a species: one along jeopardizes itself." - W. H. Auden
 - "Each night, when I go to sleep, I die. And the next morning, when I wake up, I am reborn." - Mahatma Gandhi
-- "If you've found meaning in your life, you don't want to go back. You want to go forward." - Morrie
-- "Only an open heart will allow you to float equally between everyone." - Morrie
+- "If you've found meaning in your life, you don't want to go back. You want to go forward." - Morrie Schwartz
+- "Only an open heart will allow you to float equally between everyone." - Morrie Schwartz
 - "Nothing is really work unless you would rather be doing something else." - James M. Barrie
 - “You really have to know a field to extract the best things from that field” - Andrew Huberman
-- "Love each other or die" - Morrie
+- "Love each other or die" - Morrie Schwartz
+- "Agitation and strain is the entry point to neural plasticity." - Andrew Huberman
+- "Everybody works for somebody." - Javier Pena
+- "Once you get your fingers on the important questions, you can’t turn away from them." - Morrie Schwartz
+- "Love is when you are concerned about someone else’s situation as you are your own." - Morrie Schwartz
+- "Pay attention to when your loved ones are speaking, as if it might be the last time you hear them." - Mitch Albom
+- "There is no such thing as too late in life." - Mitch Albom
+- "The universe is too grand and harmonious to believe it’s all an accident." - Morrie Albom
 
