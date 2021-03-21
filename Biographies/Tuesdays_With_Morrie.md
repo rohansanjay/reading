@@ -26,7 +26,8 @@
 ### 1. The Curriculum
 
 - He was the student in his Professor's last class
-  - Not a typical class—no grades, philosophical
+
+*Not a typical class—no grades, philosophical*
 
 ### 2. The Syllabus
 
@@ -39,6 +40,8 @@
   - He was not afraid of dying
 - He had a living funeral because he wanted to hear and feel with the people who would be there
 
+*Life can change out of nowhere*
+
 ### 3. The Student
 
 - His uncle died and he realized how precious time was
@@ -46,14 +49,20 @@
   - Spent every second working
 - Lost touch with Morrie and everyone else from his past
 
+*Find something fulfilling*
+
 ### 4. The Audiovisual
 
 - Morrie became famous in the news
+
+*Life has a funny way of turning full circle*
 
 ### 5. The Orientation
 
 - He worked instead of paying attention to his dying professor
 - Hearing about Morrie dying became Mitch's last class
+
+*Don't let work take you away from what you care about*
 
 ### 6. The Classroom
 
@@ -61,19 +70,27 @@
 - Full days don't mean a satisfying life
 - Morrie doesn't want people to be afraid of death
 
+*Don't be afraid of death*
+
 ### 7. Taking Attendance
 
 - People care so much and keep up with the lives of others who don't even know them
+
+*Don't simp*
 
 ### 8. The First Tuesday We Talk About the World
 
 - You can look at everything in life uniquely to make it a positive
 - It's not just about just giving love but also letting it in
 
+*Change your perspective if you don't see what you want*
+
 ### 9. The Second Tuesday We Talk About Feeling Sorry for Yourself
 
 - Put a daily limit on self-pity
   - Give yourself a few minutes to cry every morning but that's it -> then get on with your day
+
+*Move on*
 
 ### 10. The Third Tuesday We Talk About Regrets
 
@@ -81,21 +98,29 @@
 - Photos and videos, etc. are a way to steal from death's suitcase
 - We don't think about our lives as a whole until we are faced with death—we are consumed by egotistical thoughts
 
+*Listen and tell*
+
 ### 11. The Audiovisual, Part Two
 
 - Pain doesn't always recede with time but can recede with group support
   - He is still saddened by the loss of his mother 70 years ago and wishes we
+
+*Let other people help you*
 
 ### 12. The Professor
 
 - Education can be an antidote to poverty
 - He never wanted to do work that exploited someone else
 
+*Learn and teach*
+
 ### 13. The Fourth Tuesday We Talk About Death
 
 - Everyone knows they are going to die but nobody believes it
   - Once you learn how to die, you learn how to live
     - You become more spiritual and appreciative
+
+*When you learn to die, you learn to live*
 
 ### 14. The Fifth Tuesday We Talk About Family
 
@@ -105,6 +130,8 @@
 - There is no experience like having children
   - Complete responsibility for another human being - learn how to love and bond in the deepest way
 
+*Care for yourself and others*
+
 ### 15. The Sixth Tuesday We Talk About Emotions
 
 - Detach yourself from experience
@@ -112,16 +139,22 @@
     - When you do this, you learn what each emotion is and can recognize them
   - Ex: When you are lonely, you cry and let go. Feel it completely. And then put it aside and experience other emotions—detach. You are no longer afraid of it. 
 
+*Detach*
+
 ### 16. The Professor, Part Two
 
 - People want you to notice that they are there
 - People want to feel that they matter
+
+*Give people attention*
 
 ### 17. The Seventh Tuesday We Talk About the Fear of Aging
 
 - Embrace again—as you grow, you learn more
 - If you've found meaning in your life, you don't want to go back. You want to go forward. 
 - You can find good in any phase of your life
+
+*Don't live in the past*
 
 ### 18. The Eighth Tuesday We Talk About Money
 
@@ -148,6 +181,8 @@
   - If you don't have a common set of values if life, you will have a lot of trouble
     - The most important: the belief in the importance of your marriage
 
+*Know yourself*
+
 ### 21. The Eleventh Tuesday We Talk About Our Culture
 
 - People are only mean when they feel threatened
@@ -157,7 +192,7 @@
 
 ### 22. The Audiovisual, Part Three
 
-- Be compassionate
+*Be compassionate* 
 
 ### 23. The Twelfth Tuesday We Talk About Forgiveness
 
@@ -188,6 +223,8 @@
 - There is no such thing as too late in life
 - Be fully present always
 
+*Life goes on*
+
 ### Wisdom
 
 - Self
@@ -201,4 +238,8 @@
   - Let people know there is someone who is watching out for them -> spiritual security
   - People want you to notice that they are there and feel like they matter -> give them your time and full attention
   - More is not good unless you are giving
+
+*Make everyday a Tuesday with Morrie*
+
+
 
