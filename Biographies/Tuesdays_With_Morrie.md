@@ -3,6 +3,7 @@
 ### Interesting Quotes
 
 - "Accept that past as the past, without denying it or discarding it"
+- "ALS is like a lit candle: it melts your nerves and leaves your body in a pile of wax"
 - "Learn to forgive yourself and forgive others"
 - "Life is a series of pulls back and forth. You want to do one thing, but you are bound to do something else. Something hurts you, yet you know it shouldn't. You take certain things for granted, even when you know you should never take anything for granted."
 - "Love wins. Love always wins."
@@ -19,6 +20,8 @@
 - "Only an open heart will allow you to float equally between everyone."
 - "Love is how you stay alive, even after you are gone."
 - "The big things—how we think, what we value—those you must choose yourself. You can't let anyone—or any society—determine those for you."
+- "Sometime when you’re losing someone, you hang on to whatever tradition you can."
+- "When someone is happy—genuinely happy—to see you, it melts you from the start. It is like going home."
 
 ### 1. The Curriculum
 
@@ -31,7 +34,6 @@
   - He would go to a dance club full of students on Wednesdays—no one knew he was a famous Phd in Sociology 
 - But then, he got sick
   - Diagnosed with ALS—no known cure
-    - "ALS is like a lit candle: it melts your nerves and leaves your body in a pile of wax"
   - His life quickly changed as he couldn't continue doing what he normally would but he kept teaching
 - He wanted people to learn from what he was going through
   - He was not afraid of dying
@@ -186,5 +188,17 @@
 - There is no such thing as too late in life
 - Be fully present always
 
+### Wisdom
 
+- Self
+  - You can look at everything in life uniquely to make it a positive
+  - Put a daily limit on self-pity
+  - Once you learn how to die, you learn how to live—spiritual and appreciative
+  - Detach yourself from experience and let it penetrate you fully so that you can leave it because when you do this, you learn what each emotion is and how to recognize it
+  - If you've found meaning in your life, you don't want to go back. You want to go forward.
+  - You need to know yourself before you can know others
+- Others
+  - Let people know there is someone who is watching out for them -> spiritual security
+  - People want you to notice that they are there and feel like they matter -> give them your time and full attention
+  - More is not good unless you are giving
 
