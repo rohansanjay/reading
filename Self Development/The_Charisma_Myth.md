@@ -43,3 +43,4 @@
     - Breath: imagine your breath is someone you want to give full attention to
     - Toes: get into the physical sensation of movement
   - When in conversation, think about whether your mind is wandering and bring yourself back by focusing on your breath or toes for a second
+  - Presence makes you more impactful, memorable, and grounded

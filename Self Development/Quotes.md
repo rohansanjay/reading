@@ -38,4 +38,7 @@
 - "Pay attention to when your loved ones are speaking, as if it might be the last time you hear them." - Mitch Albom
 - "There is no such thing as too late in life." - Mitch Albom
 - "The universe is too grand and harmonious to believe it’s all an accident." - Morrie Albom
+- "Being present enable you to fully notice and drink in the good moments." - Olivia Fox Cabane
+
+
 
