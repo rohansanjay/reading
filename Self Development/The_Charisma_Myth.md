@@ -9,6 +9,12 @@
 - "Make others feel impressive, intelligent, and fascinating." (13)
 - "Because so few of us are ever fully present, if you can even manage a few moments of full presence from time to time, you'll make quite an impact." (16)
 
+### To Do
+
+- Reduce how quickly and often you nod
+- Pause for 2 seconds at the end of sentences
+- Focus on your breath and toes to help you stay present
+
 ### Introduction
 
 - Charisma can be turned on and off—it's not something people are born with
