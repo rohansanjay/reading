@@ -8,7 +8,8 @@
 - "Charisma makes people want to do what you want them to do."(2)
 - "Make others feel impressive, intelligent, and fascinating." (13)
 - "Because so few of us are ever fully present, if you can even manage a few moments of full presence from time to time, you'll make quite an impact." (16)
-- "Whatever your mind believes, your body will manifest" (24)
+- "Whatever your mind believes, your body will manifest." (24)
+- "An ounce of prevention is worth a pound of cure." (29)
 
 ### To Do
 
@@ -16,6 +17,8 @@
 - Pause for 2 seconds at the end of sentences
 - Focus on your breath and toes to help you stay present
 - Body language is powerful—you must display charismatic body language and this starts with a charismatic internal state in the mind (get the internal state right)
+- Use the responsibility transfer to reduce anxiety, uncertainty, and dissatisfaction that will otherwise present itself in body language and inhibit charisma
+- Remember that everyone experiences mental negativity
 
 ### Introduction
 
@@ -68,4 +71,28 @@
     - Nocebo effect: the mind creates toxic consequences in the body in reaction to completely fictional causes
 
 *Our imagination can dramatically enhance or inhibit our charisma, depending on its content*
+
+### 3. The Obstacles to Presence, Power, and Warmth
+
+- Physical discomfort
+  - Any physical discomfort that affects your visible, external state even slightly may affect how charismatic you are perceived to be
+  - Counteracting physical discomfort
+    - prevent: plan ahead
+      - Location, clothing comfort, sunlight, weather, hunger, etc.
+    - recognize: awareness
+      - Do you look tense? 
+    - remedy/explain: do something about it
+      - Giving voice will allow you to move on from it
+- Mental Discomfort
+  - You need to be comfortable with uncertainty and ambiguity
+  - Responsibility transfer (steps on pg. 35)
+    - Pick an entity and transfer the weight of everything you are concerned about to this entity—they're in charge now and you are no longer responsible for the outcome
+  - Notice when you are making comparisons and use the responsibility transfer to alleviate any discomfort it's causing you
+  - Self-criticism is a silent killer—other people don't know about it and will think your reactions are directed at them
+  - The reason your mind blanks in stressful situations (e.g. taking a test) is because the body naturally shuts downs superfluous functions during fight-or-flight situations
+  - Even the most intelligent and competent people feel self-doubt and experience the imposter syndrome
+    - Yes, it can be a great motivator to make you work hard... but at what cost? It impairs your body language, interactions, makes you enjoy life less, etc. 
+    - Much better to be motivated by confidence and the joy of achievement 
+
+*Your mental state is crucial in your ability to project charismatic body language—know which internal obstacles are inhibiting your charisma potential*
 
