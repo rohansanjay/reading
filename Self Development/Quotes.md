@@ -13,12 +13,12 @@
 - "Creativity is not disconnected from art." - Manolis Kellis
 - "A superior man is modest in his speech, but exceeds in his actions." - Confucius
 - “If you get anyone to start talking about themselves enough, they will forget that they were mad at you in the first place.”  - Matt Fan
-- “Human beings are amazing at extensively self-justifying their actions.” - Amit
+- “Human beings are amazing at extensively self-justifying their actions.” - Amit Kumar
 - "Unheroic days can make for heroic decades." - James Clear
 - "A teacher affects eternity; he can never tell where his influence stops." - Henry Adams
 - "Love each other or perish—without love, we are birds with broken wings." - Morrie Schwartz
 - "Hack implies some sort of trick—like you’re gaming the system. What works in mechanism.” - Andrew Huberman
-- “Pain is weakness leaving the body.” - Amit
+- “Pain is weakness leaving the body.” - Amit Kumar
 - "Better living through chemistry still requires better living." - Andrew Huberman's Friend
 - "Language is not just words, it’s everything together—and that’s one of the fascinating things about the eyes and the window to the soul." - Lex Fridman
 - "Getting into states of wordlessness is very renewing and replenishing." - Andrew Huberman
@@ -39,6 +39,14 @@
 - "There is no such thing as too late in life." - Mitch Albom
 - "The universe is too grand and harmonious to believe it’s all an accident." - Morrie Albom
 - "Being present enable you to fully notice and drink in the good moments." - Olivia Fox Cabane
+- "You don’t get what you don’t ask for." - Enzo Coglitore
+- "Sleep is an extension of the waking state." - Andrew Huberman
+- "Regression to the mean is a very strong instinct." - Amit Kumar
+- "Where are we now and what changes do we need to make, if any, to get to a better point tomorrow." - Amit Kumar
+- "Do it for 0, 1, or infinity." - Amit Kumar
+- "To know others is knowledge. To know oneself is wisdom." - Lao Tzu
+- “Let your reaction to rejection define yourself.” - Jia Jiang
+- "If you mention and empathize with some doubt people have by asking them about it, then you are more likely to gain their trust because it makes them feel like you are thinking like them." - Jia Jiang
 
 
 
