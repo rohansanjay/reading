@@ -47,6 +47,11 @@
 - "To know others is knowledge. To know oneself is wisdom." - Lao Tzu
 - “Let your reaction to rejection define yourself.” - Jia Jiang
 - "If you mention and empathize with some doubt people have by asking them about it, then you are more likely to gain their trust because it makes them feel like you are thinking like them." - Jia Jiang
+- "The feat of being unlovable: Shame is the intensely painful feeling or experience of believing that we are flawed and therefore unworthy of love and belonging." - Brené Brown
+- "Failure is seldom fatal." - Winston Churchill
+- "Resentment is like drinking poison and waiting for the other person to die." - Olivia Fox Cabane's favorite adage
+- “Live your life like you’re the hero in your movie and right now is when the movie starts.” - Joe Rogan
+- “High value individuals don’t let low value individuals occupy space in their mind.” - Enzo
 
 
 
