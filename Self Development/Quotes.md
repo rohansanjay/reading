@@ -29,8 +29,8 @@
 - "If you've found meaning in your life, you don't want to go back. You want to go forward." - Morrie Schwartz
 - "Only an open heart will allow you to float equally between everyone." - Morrie Schwartz
 - "Nothing is really work unless you would rather be doing something else." - James M. Barrie
-- “You really have to know a field to extract the best things from that field” - Andrew Huberman
-- "Love each other or die" - Morrie Schwartz
+- “You really have to know a field to extract the best things from that field.” - Andrew Huberman
+- "Love each other or die." - Morrie Schwartz
 - "Agitation and strain is the entry point to neural plasticity." - Andrew Huberman
 - "Everybody works for somebody." - Javier Pena
 - "Once you get your fingers on the important questions, you can’t turn away from them." - Morrie Schwartz
@@ -51,7 +51,9 @@
 - "Failure is seldom fatal." - Winston Churchill
 - "Resentment is like drinking poison and waiting for the other person to die." - Olivia Fox Cabane's favorite adage
 - “Live your life like you’re the hero in your movie and right now is when the movie starts.” - Joe Rogan
-- “High value individuals don’t let low value individuals occupy space in their mind.” - Enzo
+- “High value individuals don’t let low value individuals occupy space in their mind.” - Enzo Coglitore
+- “You generate massive goodwill when you laugh with someone rather than at them.” - Charlie Houpert
+- “Our life is what our thoughts make it.” - Marcus Aurelius
 
 
 
