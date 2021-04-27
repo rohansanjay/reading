@@ -43,3 +43,14 @@
   $$
   
 
+#### Conditional Probability and Bayes' Formula
+
+- Conditional probability:
+  - P(A | B) = P(AB) / P(B)
+- Multiplication rule:
+  - P(E<sub>1</sub> E<sub>2</sub> ... E<sub>n</sub>) = P(E<sub>1</sub>) * P(E<sub>2</sub> | E<sub>1</sub>) ...
+- Independence
+  - P(EF) = P(E) * P(F)
+- Bayes formula
+  - P(F | E) = [P(E | F) * P(F)] / [P(E | F) P(F) + P(E | F<sup>c</sup>) P(F<sup>c</sup>)]
+
