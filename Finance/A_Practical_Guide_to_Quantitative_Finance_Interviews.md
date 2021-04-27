@@ -43,7 +43,7 @@
   $$
   
 
-#### Conditional Probability and Bayes' Formula
+#### 4.3 Conditional Probability and Bayes' Formula
 
 - Conditional probability:
   - P(A | B) = P(AB) / P(B)
