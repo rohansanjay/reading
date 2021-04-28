@@ -59,6 +59,7 @@
 - "If you want a job, start doing the work before you start the job." - Emile Chamoun
 - "It’s better to say no diplomatically to good opportunities than do them poorly." - Sean Xu
 - "Flow is an expression of what we already know how to do, it is not a state for learning." - Andrew Huberman
+- “Any sort of risk-taking venture should have good and bad days; otherwise, you’re not properly allocating risk.” - Arjun Mithal
 
 
 
