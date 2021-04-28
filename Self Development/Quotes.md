@@ -54,6 +54,11 @@
 - “High value individuals don’t let low value individuals occupy space in their mind.” - Enzo Coglitore
 - “You generate massive goodwill when you laugh with someone rather than at them.” - Charlie Houpert
 - “Our life is what our thoughts make it.” - Marcus Aurelius
+- "Try to find an environments where they are more stakeholders for yourself, where if you fail or succeed, more people care." - Gaurav Chakravorty
+- "A good sweet spot is companies that are 50 - 100 people who have the time to invest in you." - Gaurav Chakravorty
+- "If you want a job, start doing the work before you start the job." - Emile Chamoun
+- "It’s better to say no diplomatically to good opportunities than do them poorly." - Sean Xu
+- "Flow is an expression of what we already know how to do, it is not a state for learning." - Andrew Huberman
 
 
 
