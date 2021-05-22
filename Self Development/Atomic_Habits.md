@@ -36,7 +36,7 @@
 - "A craving is just a specific manifestation of a deeper, underlying motive."
 - "Habits are the entry point, not the endpoint."
 - "When you automate as much of your life as possible, you can spend your effort on the tasks machines cannot do yet."
-- "Word with the grain of human nature, not against it."
+- "Work with the grain of human nature, not against it."
 - "The secret to maximizing your odds of success is to choose the right field of competition."
 - "Genes do not determine your destiny. They determine your areas of opportunity."
 - "The only way to become excellent is to be endlessly fascinated by doing the same thing over and over."
