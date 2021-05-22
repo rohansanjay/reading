@@ -60,6 +60,15 @@
 - "It’s better to say no diplomatically to good opportunities than do them poorly." - Sean Xu
 - "Flow is an expression of what we already know how to do, it is not a state for learning." - Andrew Huberman
 - “Any sort of risk-taking venture should have good and bad days; otherwise, you’re not properly allocating risk.” - Arjun Mithal
+- “The best memories of college come from the nights where you stray from moderation, but that can’t be too often either. You’ll be the best judge of what is too much, but just know that you don’t always need to be on top of stuff, but you can’t always be going off the rails.” - Nick Chua
+- “The purpose of wealth is freedom.” - Naval
+- “You build your character in a certain way and then your character becomes your destiny.” - Naval
+- “You want to look for professions and careers where the inputs and outputs are highly disconnected. You want to look for things that are leveraged.” - Naval
+- “You get rich by giving society what it wants but doesn’t know, at scale.” - Naval
+- “Everyone is the best at something. Escape competition through authenticity.” - Naval
+- “You can’t believe in the buttlerly effect and simeltaneously think your actions have any meaning: live in the moment with local optimizations (don’t do global because you just don’t know).” - Amit
+- “Simplicity is the final achievement.” - Frédéric Chopin
+- "No is a decision. Yes is a responsibility." - James Clear
 
 
 
