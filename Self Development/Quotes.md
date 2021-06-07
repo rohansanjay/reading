@@ -69,6 +69,7 @@
 - “You can’t believe in the buttlerly effect and simeltaneously think your actions have any meaning: live in the moment with local optimizations (don’t do global because you just don’t know).” - Amit
 - “Simplicity is the final achievement.” - Frédéric Chopin
 - "No is a decision. Yes is a responsibility." - James Clear
+- "Logic makes people think. Emotion makes them act." - Alan Weiss
 
 
 

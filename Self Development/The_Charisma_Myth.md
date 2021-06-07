@@ -11,6 +11,8 @@
 - "Whatever your mind believes, your body will manifest." (24)
 - "An ounce of prevention is worth a pound of cure." (29)
 - "Thoughts, in fact, have no tangible substance: they're just little electrical impulses sent from one part of your brain to another." (49)
+- "Logic makes people think. Emotion makes them act." (144)
+- "Our physiology affects our psychology." (150)
 
 ### To Do
 
@@ -149,7 +151,6 @@
 ### 5. Creating Charismatic Mental States
 
 - Visualization
-
   - You can build and strengthen whichever metal tendencies you focus on
   - Increase your internal confidence and your ability to project it
   - Helps you feel confidence when doing stressful things
@@ -289,4 +290,61 @@
   - Warmth = smile (even on the phone!)
 
 *Smile, pause, and let other people talk*
+
+### 9. Charismatic Body Language
+
+- We trust non-verbal communication over verbal
+- Emotional contagion: the process by which emotions expressed by someone are caught by another
+  - Your emotions affect your followers
+- Conscious mirroring: imitating someone's body language is an easy way to establish trust and rapport
+  - This makes people trust you and makes you more attractive
+  - Things to mirror: overall posture (how they hold their head, feet placement shifts in weight), movements, voice (speed, pitch, intonation)
+  - Increase subtlety 
+    - Be selective -> do what's natural (some gestures are gender specific)
+    - Variations in amplitude (big vs small gestures)
+    - Use lag time: give it a few seconds before you move into a mirrored position
+- Mirror and lead: use this to get someone's trust and draw them out when they are upset
+- Personal space: sit next to or at a 90 degree angle from someone
+- Eye contact: EXTREMELY important -> the windows to our souls
+  - Keep eye contact for three full seconds at the end of your interaction with someone
+    - Makes people feel like you paid attention to them
+  - Pay attention to your physical sensations when looking into someone's eyes
+  - Switch to a softer focus
+    - Close your eyes
+    - Focus on the space around you: empty space in a room
+    - Now focus on the space filling the entire universe
+  - If you feel tense eyes, think of something heartwarming!
+  - Watch blink rate
+    - High anxiety = high blink rate
+- Body language
+  - Walk like a gorilla, chest inflated and arms swinging—take up space
+    - Roll your shoulders up and back
+    - Drape your arms across chairs
+  - Regal posture
+    - Don't excessively nod—once is okay
+    - Don't excessively reassure—things like "uh-huh" and "Oh, I agree"
+    - Don't restlessly fidget—you will be distracting
+    - Be AWARE of things things
+
+*Non-verbal communication is extremely important*
+
+### 10. Difficult Situations
+
+- Convince people individually rather than as a big group—you can target your charisma tactics
+- Benjamin Franklin effect: asking people who don't like you for something might make them like you
+  - Make it something that they can give you at no cost: opinion or favor
+  - Remind them of what they've done for you and show them your appreciation
+- Express appreciation
+  - Make it specific (ex: you did a good job vs just good job)
+- When you are dealing with difficult people, be empathetic
+- Delivering criticism -> be empathetic
+  - Think about timing and location
+  - Get into mindset of compassion and empathy
+    - Remind people that you are just trying to help
+  - Be specific with what you say
+  - Depersonalize: you are critiquing behavior, not the person
+  - End on a high note
+- Deny yourself the pleasure of being right when you are right—you'll avoid making enemies
+  - Remember that you always want to make people feel good
+- 
 
